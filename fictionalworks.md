@@ -17,4 +17,8 @@ Does not rule out that
 
 2. Ex (FICT [Written by Bethany]x)
  
-Imagine we perform Bethany's play. We're staging a theatrical performance and enact the scenes she conceived in the story, we speak the lines she thought up for her characters. Here we have an instance of a work of theatre, we can see it and be amused or frustrated by it. But it is nonetheless true of this play that it was  only written by Bethany in the fiction. In the actual world, _no one_ wrote that play. 
+Imagine we perform Bethany's play. We're staging a theatrical performance and enact the scenes she conceived in the story, we speak the lines she thought up for her characters. Here we have an instance of a work of theatre, we can see it and be amused or frustrated by it. But it is nonetheless true of this play that it was  only written by Bethany in the fiction. In the actual world, _no one_ wrote that play.
+
+The previous of course does not make the puzzle go away. But what it does do is remove one apparent way out that may have seemed attractive. This would be to propose that although we can perform the play in real life, when we do so it would not be true of the work we perform that Bethany wrote it. The point is that this would be to have one's cake and eat it, which in this case does not seem possible. For, either we are not performing that particular play (merely a counterpart of it), or she did write it, be it in the fiction. We are working on the hypothesis that it is at least in principle possible to stage or print fictional works, and so should conclude that it is at least in principle possible that a fictional character wrote the play we staged. The important thing to realise is that this does not commit us to the claim that Bethany wrote that play in the actual world. She didn't. All we need to acknowledge that it is actually true that Bethany wrote that play in a fiction. 
+
+
