@@ -9,6 +9,12 @@ date: September 2015
 abstract: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ...
 
+<!-- ToDo 
+1. How much do I need to build into 'abstract'? I start with repeatable, which I take to be pretheoretical. Can I leave it at that? 
+2. What are the precise sub-theses of each of the sections, and how do they comprise the argument of the paper? Make this precise.
+3. Is the formalisation clarifying my point? If it is not, leave it out.
+End ToDo-->
+
 Can fictional entities manage to enter into the real world? In this paper I discuss a puzzling phenomenon where just this seems to happen. Some literary works tell us of pieces of prose or literature written by fictional characters, of pieces of music composed originally in a story, or of a poem imaginatively conceived on a Sunday afternoon in an East-Sussex farmhouse that does not actually exist. All such works are written, created or invented _within_ a fiction. Their authors are typically fictional characters, authors that do not exist. 
 
 Here's a clear example. The tragic lines Briony writes in the opening chapter of McEwan's _Atonement_ are recited by her cousin a few pages later. 
