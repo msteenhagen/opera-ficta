@@ -13,7 +13,7 @@ In this paper I discuss the puzzling phenomenon of fictional entities that manag
 
 Here's a clear example. The tragic lines Briony writes in the opening chapter of McEwan's _Atonement_ are recited by her cousin a few pages later. 
 
-> The play—for which Briony had designed the posters, pro-grams and tickets, constructed the sales booth out of a folding screen tipped on its side, and lined the collection box in red crêpe paper—was written by her in a two-day tempest of compo-sition, causing her to miss a breakfast and a lunch. When the preparations were complete, she had nothing to do but contemplate her finished draft and wait for the appearance of her cousins from the distant north.
+> The play---for which Briony had designed the posters, programs and tickets, constructed the sales booth out of a folding screen tipped on its side, and lined the collection box in red crêpe paper---was written by her in a two-day tempest of composition, causing her to miss a breakfast and a lunch. When the preparations were complete, she had nothing to do but contemplate her finished draft and wait for the appearance of her cousins from the distant north [@mcewan0000aa,p. ??].
 
 It should be obvious that it is possible for a story to be about the performance of a play created by a fictional character. To me it seems equally clear that such a play---that Briony's lines, say---may just as well be presented to us outside the story. A fictional play may be performed by real people. 
 
