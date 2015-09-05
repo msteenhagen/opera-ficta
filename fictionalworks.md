@@ -59,6 +59,10 @@ The point then is that it is only those types that can be multiplied _via_ notat
 
 Let me bring out once more why the autographic fictional work (say a sculpture), or the allographic non-notational one (say a copperplate engraving) is helpless without notation. Those works depend for their multiplication on their place in a shared history, whereas notational works are in some way liberated from that. (This needs to be spelled out much more carefully, and explained in much more detail.)
 
+## 'Real' and 'Fictional'
+
+I now want to argue that the play Briony wrote was neither real nor fictional in the way Ian McEwan is real and Sherlock Holmes fictional. This is (in part?) because a play is not a concrete particular but an abstract one. The situation is this: we've got two predicates that typically are taken to be exclusive (contraries). If some x is fictional, it isn't real, and if it is real it isn't fictional. But are they also contraditories? That is, if we know something isn't real, do we know it's ficional and vice versa? I think this is not the case. Not all unreal things are fictions, it seems. The highest prime number, for example, doesn't exist but it isn't a fictional entity either. (Are all possibilia either real or fictional? Also not, I think, but that point needs further defence.)
+
 ## Some further thoughts
 
 Science fiction is a genre that is full of fictional artefacts, things or products or inventions that do not actually exist. There is a way in which such artefacts can become reality as well. Jules Verne described the submarine, it seems, and the moon rocket. When he wrote these were merely fictional artefacts, but after his stories were published those things became realities as well. Did Verne invent the submarine? The orbital rocket? To me this is not obvious. It seems that here we do have reason to suggest that what got invented later were counterparts of the inventions in his story, unless of course he presented in his story the 'breakthrough' technology that made these things actually possible. (This point requires further elaboration.)
