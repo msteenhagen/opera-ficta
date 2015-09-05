@@ -29,9 +29,11 @@ The previous of course does not make the puzzle go away. But what it does do is 
 
 # Resolving the puzzle: abstract entities and the reality/fiction divide
 
-I want to suggest that it is because they are abstract that certain fictional entities are able to make the jump into the real world, with some help of course. 
+I've pointed to a phenomenon that seems very well possible. I've constructed an example based on a fictional work in one of McEwan's novels. We've seen that the phenomenon (and so the example) is puzzling in light of the distinction between fictional and real entities. I now want to suggest a way to resolve the puzzlement. It's an explanation of how it is possible for fictional entities of the sort I discussed to make their entrance into the real world. 
 
-Being abstract is not sufficient for this kind of fiction-to-world jump to be possible, however. In the next section I want to explain what more needs to be in place. 
+What is the explanation? In brief, i want to suggest that it is because they are abstract that certain fictional entities are able to make the jump into the real world, with some help of course. 
+
+But notice, being abstract is not sufficient for this kind of fiction-to-world jump to be possible, however. In the next section I want to explain what more needs to be in place. 
 
 # Notation
 
