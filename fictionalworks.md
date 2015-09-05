@@ -14,7 +14,7 @@ To my mind it is clear that we've identified a possibile phenomenon. It probably
 
 In what follows I propose an explanation of this phenomenon. The explanation I want to propose points to the _abstract_ character of the works in question: all of them are _types_, artefacts created by people that allow, because of the kind of thing they are, for multiple instantiation. The main point I want to bring out is that the predicate 'fictional' and the qualification 'in the fiction'  do not apply at the level of types. I show that this has the surprising consequence that some abstract entities can be invented by people that do not exist. 
 
-# Authorship in fiction
+## Authorship in fiction
 The examples I mentioned all concern fictional characters that are presented as authors or artists in the story that contains them. In the story Briony writes a play, say, and she is presented explicitly as the author of that play. We could say that this makes it 'true in the fiction' that they wrote that play. But I think we can say more about their authorship. We conceive of the play as a particular that figures in the story, in more or less the way we conceive of Sherlock Holmes as a particular (more or less; they are significantly different, as I will explain later. @hayaki2009aa, p.381 equates them too easily, I think). Just as Sherlock Holmes was (presumably) born from specific parents, and so can be said to be the son of someone essentially, Briony's play is essentially her invention. It is part of the identity conditions of the play she wrote that is written by her---the play has that authorship essentially. (No doubt this can be made more precise, but it will do for now.)
 
 Note that this does not imply that Briony _actually_ wrote that play, that she wrote it somewhere and at some time in the real world. She obviously didn't because she doesn't exist (assuming McEwan presented a fictional character). She wrote the play _in the story_, but this does not take away that her act of writing, her authorship, is part of our concept of that particular play, just as his having some parents is part of our conception of Sherlock Holmes. 
@@ -31,7 +31,7 @@ Imagine we perform Briony's play. We're staging a theatrical performance and ena
 
 The previous of course does not make the puzzle go away. But what it does do is remove one apparent way out that may have seemed attractive. This would be to propose that although we can perform the play in real life, when we do so it would not be true of the work we perform that Briony wrote it. The point is that this would be to have one's cake and eat it, which in this case does not seem possible. For, either we are not performing that particular play (merely a counterpart of it), or she did write it, be it in the fiction. We are working on the hypothesis that it is at least in principle possible to stage or print fictional works, and so should conclude that it is at least in principle possible that a fictional character wrote the play we staged. The important thing to realise is that this does not commit us to the claim that Briony wrote that play in the actual world. She didn't. All we need to acknowledge that it is actually true that Briony wrote that play in a fiction. 
 
-# Resolving the puzzle: abstract entities and the reality/fiction divide
+## Resolving the puzzle: abstract entities and the reality/fiction divide
 
 I've pointed to a phenomenon that seems very well possible. I've constructed an example based on a fictional work in one of McEwan's novels. We've seen that the phenomenon (and so the example) is puzzling in light of the distinction between fictional and real entities. I now want to suggest a way to resolve the puzzlement. It's an explanation of how it is possible for fictional entities of the sort I discussed to make their entrance into the real world. 
 
@@ -47,7 +47,7 @@ In answer to this question, there is indeed a good reason to think this. But I w
 
 I find this a good point. But to my mind, all it shows is that being abstract is not sufficient for the kind of fiction-to-world jump we've been interested in to be possible. It doesn't show that it is impossible, for it is not at all obvious that all instantiations of abstract works are in that way dependent on a causal/historical tie. In the next section I want to explain how there's an alternative route to instantiation, but also that this alternative route requires a work of art of a very specific sort.
 
-# Notation
+## Notation
 
 Nelson Goodman stressed the importance of notation in the arts. He suggested that it is only when works make use of notational systems that they can have clear identity criteria [check]. I do not wish to follow him in this claim, which has proven highly controversial [see @wollheim1980ab]. I want to highlight the role of notation in facilitating or enabling the fiction/real transfer discussed above. This is because abstractness in and of itself is not sufficient for transferability.
 
@@ -59,10 +59,10 @@ The point then is that it is only those types that can be multiplied _via_ notat
 
 Let me bring out once more why the autographic fictional work (say a sculpture), or the allographic non-notational one (say a copperplate engraving) is helpless without notation. Those works depend for their multiplication on their place in a shared history, whereas notational works are in some way liberated from that. (This needs to be spelled out much more carefully, and explained in much more detail.)
 
-# Some further thoughts
+## Some further thoughts
 
 Science fiction is a genre that is full of fictional artefacts, things or products or inventions that do not actually exist. There is a way in which such artefacts can become reality as well. Jules Verne described the submarine, it seems, and the moon rocket. When he wrote these were merely fictional artefacts, but after his stories were published those things became realities as well. Did Verne invent the submarine? The orbital rocket? To me this is not obvious. It seems that here we do have reason to suggest that what got invented later were counterparts of the inventions in his story, unless of course he presented in his story the 'breakthrough' technology that made these things actually possible. (This point requires further elaboration.)
 
-# The view that fictional entities are abstract objects
+## The view that fictional entities are abstract objects
 
 Some suggest that fictional entities or characters as such are abstract objects. Though not in obvious contradiction with what I said, this view sits ill with the way I have proposed to think of the situation. To my mind, it seems clear that Sherlock Holmes was intended as a concrete individual in the world of the fiction. What is gained by holding onto the idea that he is nonetheless an abstract entity? 
