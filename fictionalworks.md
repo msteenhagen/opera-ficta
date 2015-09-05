@@ -1,3 +1,18 @@
+---
+title: fictional works
+draft: incomplete draft
+author:
+- name: Maarten Steenhagen
+  affiliation: University of Antwerp
+  email: maarten.steenhagen@uantwerpen.be
+date: September 2015
+abstract: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+...
 # Fictional Works
 
 In this paper I discuss the puzzling phenomenon of fictional entities that manage to enter into the real world. Some literary works tell us of pieces of prose or literature written by fictional characters, of pieces of music composed originally in a story, or of a poem imaginatively conceived on a Sunday afternoon in an East-Sussex farmhouse that does not actually exist. It seems uncontroversial that all such _fictional works_ (not to be confused with works of fiction) could be reproduced, performed or recited within the story that contains them [see also @hayaki2009aa, who focuses on fictions in fictions, and investigates their nested structure using iterative fiction operators]. 
