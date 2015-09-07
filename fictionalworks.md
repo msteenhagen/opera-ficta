@@ -32,19 +32,36 @@ On the face of it the play Bethany wrote is not a real play. Just as Sherlock Ho
 In what follows I propose an explanation of this phenomenon. The explanation I want to propose points to the _abstract_ character of the works in question: all of them are _types_, artefacts created by people that allow, because of the kind of thing they are, for multiple instantiation. My point I hope will make good sense, and is not far fetched at all. I want to bring out is that the predicate 'fictional' or 'real' and the qualification 'in the fiction' or 'in the real world' do not apply at the level of types (this is very tentative and needs revision).
 
 ## Authorship in fiction
+
+At first sight it may seem attractive to take the puzzle to arise because of a confusion about authorship. It may be supposed that because Briony wrote that play in the fiction, it is only _true in the fiction_ that the play we see is written by Briony. When we perform that play, it is not _actually_ true that Briony wrote it, and so the real play is not fictional at all. This apparent resolution of the puzzle rests on a mistake.
+
 The examples I mentioned all concern fictional characters that are presented as authors or artists in the story that contains them. In the story Briony writes a play, say, and she is presented explicitly as the author of that play. We could say that this makes it 'true in the fiction' that they wrote that play. But I think we can say more about their authorship. We conceive of the play as a particular that figures in the story, in more or less the way we conceive of Sherlock Holmes as a particular (more or less; they are significantly different, as I will explain later. @hayaki2009aa, p.381 equates them too easily, I think). Just as Sherlock Holmes was (presumably) born from specific parents, and so can be said to be the son of someone essentially, Briony's play is essentially her invention. It is part of the identity conditions of the play she wrote that is written by her---the play has that authorship essentially. (No doubt this can be made more precise, but it will do for now.)
 
 Note that this does not imply that Briony _actually_ wrote that play, that she wrote it somewhere and at some time in the real world. She obviously didn't because she doesn't exist (assuming McEwan presented a fictional character). She wrote the play _in the story_, but this does not take away that her act of writing, her authorship, is part of our concept of that particular play, just as his having some parents is part of our conception of Sherlock Holmes. 
 
-What I am trying to bring out here is that the claim 'Briony wrote it' would be true of the play if it somehow managed to emerge in the actual world, for example by being performed by a bunch of willing and charitable readers of McEwan's novel.  Perhaps we can bring out this feature in a formalisation using a fiction operator (FICT). The point is that 
+What I am trying to bring out here is that the claim 'Briony wrote it' would be true of the play if it somehow managed to emerge in the actual world, for example by being performed by a bunch of willing and charitable readers of McEwan's novel.  Perhaps we can bring out this feature in a formalisation using a fiction operator (FICT). 
 
-1. FICT (Ex [Written by Briony]x)
+It is common to adopt approach claims about fictions and claims in fictions with a concept of 'truth in fiction (TF)', contrasting with unqualified truth (T) or with a specific object language operator ($\oint$), roughly capturing the interjection ‘according to the story,...’. ('the story' here is quite flexible: it can mean a specific work, a specific corpus of works, or even fiction in general [cf. @sainsbury2005aa, p. 203].) 
 
-Does not rule out that  
+Call our performance _p_. Of _p_, it may be said that Briony wrote it. The view am considering here claims that in such a statement there is an implicit fiction operator active. 
 
-2. Ex (FICT [Written by Briony]x)
- 
+F: Briony is _p_'s author 
+T: $\oint$ Briony is _p_'s author
+
+An alternative way of putting this. 
+
+F: Briony is _p_'s author 
+TF: Briony is _p_'s author 
+
+If that is right, then it is false that the piece we perform was written by a fictional character---it is only written by a fictional character _according to the fiction_. 
+
+I want to resist this reading. If it is false that Briony is P's author, then it is true that Briony is not P's author. I take it that a work of art is created by its author essentially. And I take it that if S authored A, and x is an instance of A, then S authored x. So if it is true that Briony is not P's author, but it is true that Briony is A's author, then P is not an instance of it. Yet by hypothesis the play we performed, P, was an instance of the play Briony wrote in the story. That implies P both is and is not an instance of the same story. We're now faced with a contradiction. 
+
 Imagine we perform Briony's play. We're staging a theatrical performance and enact the scenes she conceived in the story, we speak the lines she thought up for her characters. Here we have an instance of a work of theatre, we can see it and be amused or frustrated by it. But it is nonetheless true of this play that it was  only written by Briony in the fiction. In the actual world, _no one_ wrote that play.
+
+We may contrast this. Sainsbury writes that 
+
+> Trouble begins when we consider sentences like ‘Tony Blair admires Coriolanus’ which state real truths (not mere truths in fiction) and which cannot be regarded as implicitly prefixed by an ‘according to the story’ operator. [@sainsbury2005aa, p. 195]
 
 The previous of course does not make the puzzle go away. But what it does do is remove one apparent way out that may have seemed attractive. This would be to propose that although we can perform the play in real life, when we do so it would not be true of the work we perform that Briony wrote it. The point is that this would be to have one's cake and eat it, which in this case does not seem possible. For, either we are not performing that particular play (merely a counterpart of it), or she did write it, be it in the fiction. We are working on the hypothesis that it is at least in principle possible to stage or print fictional works, and so should conclude that it is at least in principle possible that a fictional character wrote the play we staged. The important thing to realise is that this does not commit us to the claim that Briony wrote that play in the actual world. She didn't. All we need to acknowledge that it is actually true that Briony wrote that play in a fiction. 
 
@@ -58,11 +75,15 @@ The claim that plays, novels, operas and the like are abstract is familiar. But 
 
 The main point about novels, operas and the like is that they are repeatable. This is a pretheoretic datum, I think. We start out with the observation that some works allow for multiple instances, performances or incarnations, whereas others do not. The idea that some works are 'types' is a theoretical way of giving this prima facie difference a place in our theorising about the nature of works of art. So far so good. This is a story that has been told over and over again, and it does not in any way involve the phenomenon of fiction-to-world transgressions I identified above. In other words, the starting point of the explanation I want to defend is completely general, familiar, and widely accepted: some works of art allow for multiple instantiations. 
 
+What fictional characters like Sherlock Holmes have in common with types is that, it seems, just as nothing really is Sherlock Holmes, nothing really the type. We conceive of fictional characters in the same way, and just as  ‘Sherlock Holmes’ may be a name without a referent, so may 'the Red Flag' be. (But it seems to me that if they indeed were without referents, they would be so for different reasons.)
+
 Being invited to go see a play written by a fictional personage in a fictional scenario would only be puzzling if we assumed that those works that allow for multiple instantiation only allow for instantiations in the world in which they were written, composed or otherwise created. On such an assumption it would seem impossible for a play written in a fictional scenario to be performed in a real-world setting. But of course the assumption is highly questionable, and in effect the examples discussed themselves put pressure on it. Why think that works that allow for multiple instantiation only allow for instantiations in the world in which they were written, composed or otherwise created?
 
 In answer to this question, there is indeed a good reason to think this. But I want to suggest it only holds for some of the repeatable works we are familiar with, not all. The reason that works that allow for multiple instantiation only allow for instantiations in the world in which they were created, the answer goes, is that instantiations depend for their identity (i.e. for their being instances of the workd in question) on a causal/historical tie to some original plate, mould, or Ur-form, or to some original act of creation or conception. Without such a causal tie an object can at best be a simulacrum of an instantiation. And causal/historical ties cannot run between fictional worlds and the actual world.
 
 I find this a good point. But to my mind, all it shows is that being abstract is not sufficient for the kind of fiction-to-world jump we've been interested in to be possible. It doesn't show that it is impossible, for it is not at all obvious that all instantiations of abstract works are in that way dependent on a causal/historical tie. In the next section I want to explain how there's an alternative route to instantiation, but also that this alternative route requires a work of art of a very specific sort.
+
+The point I have wanted to make in this section is that because plays, novels, and operas allow are repeatables, fictional novels, plays, and operas can be printed, performed and sung in real life. What seemed an _obstacle_ to this, the fact that they are created merely in a fiction, is not an obstacle. And this is telling. What does it tell? It tells us something about the place of such abstract objects. They neither belong to the actual world, nor to any possible world, but they hover strangely over them, so to say. They are like balloons let up by individuals, able to drift across borders. 
 
 ## Notation
 
@@ -75,6 +96,8 @@ We may think of a score as a formula or recipe. Follow these steps and one has c
 The point then is that it is only those types that can be multiplied _via_ notation (and it needs to be made more precise what this amounts to) that allow to be 'exported' from a fiction, precisely because here there is no need for an historical flow or shared history. All that is needed for such works is either actual conformity to a score (as Goodman had it) or just the intention to conform to a score (as Wollheim seems to hold). And both conditions surely can be fulfilled by our pack of eager actors trying to perform Briony's play in real life. 
 
 Let me bring out once more why the autographic fictional work (say a sculpture), or the allographic non-notational one (say a copperplate engraving) is helpless without notation. Those works depend for their multiplication on their place in a shared history, whereas notational works are in some way liberated from that. (This needs to be spelled out much more carefully, and explained in much more detail.)
+
+When we talk about abstracta, we can talk about universals or particulars. If we talk about universals, then fiction/reality transgressions seem uncontroversial. The quantity of cups on the table may be the number of dwarfs that aid Snow White, my tie may have the colour of Alice's apron in the Looking Glass, your nose may have the shape of that of captain Aleb's in Moby Dick. But if we talk about abstract particulars, then we are talking about entities that have an historical dimension. (Goodman denied this, and in effect treated novels and operas as universals. On his picture, it should be obvious that we can perform Briony's play.) The Buick was invented at some point in time, and so instances of it could not predate its invention, for example. Mere qualitative identity does not suffice for instantiation of an abstract particular; the historical setting must be right as well. It is for this reason that some abstract particulars cannot 'jump worlds', so to say, and in particular cannot jump from fictions to reality. If novels and operas are abstract particulars, then their notational character liberates them, and allows them to break free from their fictional settings. 
 
 ## 'Real' and 'Fictional'
 
