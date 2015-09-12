@@ -10,7 +10,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm
 ...
 
 
-Fictions can be about many different sorts of things. Authors writing on the nature of fictional entities often write about fictional people, animals or monsters. But some works of fiction tell us about pieces of prose or literature written by fictional characters. All such works are 'fictional works', as I'll call them; they are works written, created or invented _within_ a fiction. Their authors are fictional characters. They are makers, creators, artists that do not exist. For example, Briony, the main character of McEwan's _Atonement_ writes a play, _The Trials of Arabella_. 
+Fictions can be about many different sorts of things. Authors writing on the nature of fictional entities often write about fictional people, animals or monsters. But some works of fiction tell us about pieces of prose or literature written by fictional characters. All such works are 'fictional works', as I'll call them; they are all works written, created or invented _within_ a fiction. Their authors are fictional characters: they are makers, creators, artists that do not exist (or at least the relevant acts of creation are fictional). For example, Briony, the main character of Ian McEwan's _Atonement_ writes a play, _The Trials of Arabella_. 
 
 > The play---for which Briony had designed the posters, programs and tickets, constructed the sales booth out of a folding screen tipped on its side, and lined the collection box in red crêpe paper---was written by her in a two-day tempest of composition, causing her to miss a breakfast and a lunch. When the preparations were complete, she had nothing to do but contemplate her finished draft and wait for the appearance of her cousins from the distant north [@mcewan0000aa,p. ??].
 
@@ -25,9 +25,24 @@ I think this possibility has philosophical ramifications. In what follows I want
 
 ## Authorship in fiction
 
+At first gloss, some may think this is all due to a confusion about authorship. According to the fiction, Briony wrote _The Trials_, but in the actual world its author was McEwan. And so, if we were to perform _The Trials_ we would be performing a play actually written by an actual author in the actual world. And surely there's nothing puzzling about that---the initial paradox dissipates.
+
+It is common to adopt approach claims about fictions and claims in fictions with a specific object language operator ($\oint$), roughly capturing the interjection 'according to the story,...' or 'in the fiction,...'. (Note, 'the story' here is quite flexible: it can mean a specific work, a specific corpus of works, or even fiction in general [cf. @sainsbury2005aa, p. 203].) This allows us to represent more precisely how the present suggestion purports to resolve the puzzle. 
+
+1. $\oint$_The Trials of Arabella_ were written by Briony
+2. _The Trials of Arabella_ were written by Briony
+3. $\oint$_The Trials of Arabella_ were written by McEwan
+4. _The Trials of Arabella_ were written by McEwan
+
+It may be supposed that because Briony wrote that play in the fiction, it is only _true in the fiction_ that the play we see is written by Briony. When we perform that play, it is not _actually_ true that Briony wrote it, and so the real play is not fictional at all. This apparent resolution of the puzzle rests on a mistake.
+
+This line of thought runs into trouble. First of all, in the specific case in question it is dubious to suggest that McEwan wrote that play. This is because, at least in the novel, McEwan does not capture much of the work (naturally, we cannot easily verify if he in fact set down the entire play while writing for _Atonement_). In the novel we read descriptions of the play, and descriptions of its characters. The most we learn about the play through the words and thoughts of Briony as she tries her bored relatives to get the lines out right. In other words, it is very clear that, according to the story, Briony wrote the play, and from the evidence the novel itself offers, it is not at all obvious McEwan himself wrote a play or any part of it.  
+
+But this is quite irrelevant. When composing _Hamlet_ Shakespeare 
+
 The possibility of 'fiction-to-world bleeding', as we could call it, seems quite general (though how far it reaches, we will see, is itself an interesting question). For example, couldn't I recite here the poem composed by a fictional character? And couldn't the London Review reproduce a letter that was written by and addressed to mere figments of the imagination? I think so. In all such cases, what seemed a fictional entity---a work created by a fictional character---would manage with our help to enter into the actual world. A fictional stanza may resound in the very room you're in. A fictional play may be performed by real people. A fictional libretto may be sung and recorded in an actual studio.
 
-At first sight it may seem attractive to take the puzzle to arise because of a confusion about authorship. It may be supposed that because Briony wrote that play in the fiction, it is only _true in the fiction_ that the play we see is written by Briony. When we perform that play, it is not _actually_ true that Briony wrote it, and so the real play is not fictional at all. This apparent resolution of the puzzle rests on a mistake.
+At first gloss, some may think sight it may seem attractive to take the puzzle to arise because of a confusion about authorship.
 
 In real life not by Briony but by McEwan. In the story by Briony. This won't work, for together with the assumption that we're performing _The Trials of Arabella_ (a particular play written in the story), we generate contradictions. 
 
@@ -37,7 +52,7 @@ Note that this does not imply that Briony _actually_ wrote that play, that she w
 
 What I am trying to bring out here is that the claim 'Briony wrote it' would be true of the play if it somehow managed to emerge in the actual world, for example by being performed by a bunch of willing and charitable readers of McEwan's novel.  Perhaps we can bring out this feature in a formalisation using a fiction operator (FICT). 
 
-It is common to adopt approach claims about fictions and claims in fictions with a concept of 'truth in fiction (TF)', contrasting with unqualified truth (T) or with a specific object language operator ($\oint$), roughly capturing the interjection ‘according to the story,...’. ('the story' here is quite flexible: it can mean a specific work, a specific corpus of works, or even fiction in general [cf. @sainsbury2005aa, p. 203].) 
+ 
 
 Call our performance _p_. Of _p_, it may be said that Briony wrote it. The view am considering here claims that in such a statement there is an implicit fiction operator active. 
 
