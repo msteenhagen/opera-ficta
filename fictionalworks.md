@@ -6,25 +6,34 @@ author:
   affiliation: University of Antwerp
   email: "maarten.steenhagen@uantwerpen.be"
 date: September 2015
-abstract: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+abstract: We can perform, execute, or generate instances of works created within a fiction, by merely fictional authors. This means that what happens in the fiction need not stay in the fiction. 
 ...
 
+What happens in a fiction, stays in a fiction, right? Wrong. Some works of fiction tell us about pieces of prose or literature written by fictional characters. All such works are 'fictional works', as I'll call them; they are all works written, created or invented _within_ a fiction. Their authors are fictional characters: they are makers, creators, artists that do not exist (or at least the relevant acts of creation are fictional). Because of this, it seems, the works themselves are merely fictional, things that happen or exist merely according to a story. And yet we can perform, execute, or generate instances of such works. And so we could bring them into existence in the actual world. In such a case, what happens in a fiction, doesn't stay there.
 
-Fictions can be about many different sorts of things. Authors writing on the nature of fictional entities often write about fictional people, animals or monsters. But some works of fiction tell us about pieces of prose or literature written by fictional characters. All such works are 'fictional works', as I'll call them; they are all works written, created or invented _within_ a fiction. Their authors are fictional characters: they are makers, creators, artists that do not exist (or at least the relevant acts of creation are fictional). For example, Briony, the main character of Ian McEwan's _Atonement_ writes a play, _The Trials of Arabella_. 
+I think this possibility has not received enough (if any) philosophical attention. In what follows I want to have a closer look at the pressure this example puts on the way we tend to conceive of the relation between fiction and reality. I will conclude that, given the status of plays, novels, and pieces of music as created, repeatable particulars, we need to give up a common assumption that particulars that find their origin in a fiction are encapsulated in the world of fiction. This, I suggest, has implications for the adequacy of a possible-world model of fiction.
+
+# It seems we can perform fictional works
+
+Let me begin with a specific example. Briony, the main character of Ian McEwan's _Atonement_, writes a play, _The Trials of Arabella_. We don't hear too much about it, but get a general sense of its plot, its main characters, and some of its most dramatic lines. What is made very clear: _The Trials of Arabella_ was written by Briony, and Briony alone. As McEwan describes:
 
 > The play---for which Briony had designed the posters, programs and tickets, constructed the sales booth out of a folding screen tipped on its side, and lined the collection box in red crêpe paper---was written by her in a two-day tempest of composition, causing her to miss a breakfast and a lunch. When the preparations were complete, she had nothing to do but contemplate her finished draft and wait for the appearance of her cousins from the distant north [@mcewan0000aa,p. ??].
 
-Although no doubt based on real people, Briony is a merely fictional character. She does not exist, at least not as a person. For that reason, it seems, _The Trials of Arabella_ cannot exist either, at least not as a work of theatre. But can't it really?
+Although no doubt based on real people, Briony does not actually exist, at least not as the person she is. _There exists no person that is Briony, nor could that person actually exist._ Briony is a merely fictional character. And so is her finished draft merely a fictional draft. And her sales booth too is a fictional one. From the draft and sales booth she constructs in the course of the narrative to every particular tear she sheds, every particular thing that finds its origin in Briony's activity in the story is merely fictional. There could not exist in the actual world something that is that sales booth, or that tear. Or so it seems.
 
-There is something puzzling about such a play, as a fictional work. Any play can be performed. And in the story it is performed. We read how Briony rehearses its lines with her bored cousins,  and how, a few pages later, the household prepares itself for the first performance of the piece. It seems uncontroversial that works written or composed in a fiction can also be performed in that fiction (as it turns out, the first performance in the story is only more than half a century later, close to the end). We are very familiar with stories that tell us of the execution or performance of merely fictional works, and there does not seem anything strange about this [see also @hayaki2009aa, who focuses on fictions in fictions, and investigates their nested structure using iterative fiction operators]. Yet it seems equally clear that Briony's play can just as well be presented to an audience outside McEwan's story. And here I do not mean to an audience in _another_ story, as when a fictional entity that originates in one corpus makes a _cameo_, as it were, in another fictional work. I mean that the play could just as well be performed by actual people, to an actual audience, on an actual stage. If some of us got together and tried, I don't see why we couldn't try performing _The Trials of Arabella_, the play Briony wrote, right now in this very room. 
+Particulars that find their origin in a fiction are encapsulated in the world of fiction. When we tell children that something is 'only a story', we build our words of comfort on this assumption. _For any particular that has its origin solely in a story, there exists nothing identical to it, nor could there exist something identical to it._ What happens in the fiction, stays in the fiction. The grip this Encapsulation Thesis (ET) has on us is reflected in the wide-spread conviction that the relation between the real world and the world of fiction may be modelled on the relation between the actual world and possible worlds.
+
+Fictional works such as Briony's _The Trials of Arabella_ are counterexamples to ET. _The Trials of Arabella_ is a particular work of theatre, written by Briony in a wholly fictional story. It seems uncontroversial that works written or composed in a fiction can also be performed in that fiction (as it turns out, the first performance in the story is only more than half a century later, close to the end). We are very familiar with stories that tell us of the execution or performance of merely fictional works, and there does not seem anything strange about this [see also @hayaki2009aa, who focuses on fictions in fictions, and investigates their nested structure using iterative fiction operators]. Yet it seems equally clear that Briony's play can just as well be presented to an audience outside McEwan's story. And here I do not mean to an audience in _another_ story, as when a fictional entity that originates in one corpus makes a _cameo_, as it were, in another fictional work. I mean that the play could just as well be performed by actual people, to an actual audience, on an actual stage. If some of us got together and tried, I don't see why we couldn't try performing _The Trials of Arabella_, the play Briony wrote, right now in this very room.
 
 On the face of it the play Bethany wrote is not a real play. Just as Sherlock Holmes is not a real detective or the Bogeyperson is not a real monster, Briony's play does not seem to be a creature of the actual world. Yet if we saw people on a stage trying to perform _The Trials_, giving voice to its lines and expression and life to its characters, wouldn't we be willing to say they were performing a play? Wouldn't we be willing to say that it was _The Trials_ they were performing? And wouldn't we be happy to attribute that play to Briony? If so, it seems, Briony's play would seem to be a fictional particular that has entered the actual world. A fictional thing would be performed right before our eyes.
 
-The example just introduced threatens the idea that the actual world and fictional worlds are 'encapsulated' or 'insulated'. When we tell children that something is 'only a story', we build our words of comfort on the assumption that, as we could put it, what happens in the fiction stays in the fiction. The encapsulation thesis may be comforting in light of stories about monsters. It seems to be in addition the reason why a possible-world model of fiction are so popular. Both fictions as conceived and possible worlds are encapsulated. There is no interaction between fictional worlds and the actual world _and_ there is no transfer of fictional entities into the real world.
+Perhaps ET does get children to sleep better, but as a thesis about fiction it is untenable.
 
-I think this possibility has not received enough (if any) philosophical attention. In what follows I want to defend a conclusion. I first propose an explanation of this phenomenon. The explanation I want to propose points to the _abstract_ character of the works in question: all of them are _types_, artefacts created by people that allow, because of the kind of thing they are, for multiple instantiation. My point I hope will make good sense, and is not far fetched at all. I want to bring out is that the predicate 'fictional' or 'real' and the qualification 'in the fiction' or 'in the real world' do not apply at the level of types (this is very tentative and needs revision).
+# To perform Briony's play is to make a fictional particular exist actually
 
-## Either we can't perform Briony's play, or Encapsulation is false 
+# The Encapsulation thesis, widely endorsed, entails that no fictional particular can exist actually
+
+# So, either we can't perform Briony's play, or Encapsulation is false 
 
 But then it seems that the example just introduced presents us with a dilemma. The fact that we can perform Briony's play example entails, it seems, that a fictional entity can transfer into the actual world. This violates the 'encapsulation'. Suddenly, something that happened in the fiction (i.e. a certain play) does not stay in the fiction, but bleeds into our own lives.
 
@@ -34,11 +43,13 @@ What matters is that we're dealing with transfer of particulars, entities that a
 
 Now some may want to allow that what goes on in the actual world can affect proceedings in a fiction, in that fictions may incorporate actual things; but even these people agree it seems that the converse does not hold. So either encapsulation/insulation goes, or the example is not a genuine case of transfer. Either we can't perform Briony's play, or Encapsulation is false
 
-## Against an argument against transfer: we can perform Briony's play
+# Against an argument against transfer: we can perform Briony's play
 
 It could be thought that at best we can make things that resemble the fictional entity. We cannot make the fictional entity. 
 
 This would show that one of the horns of the dilemma is not problematic at all. Indeed, the example shows no transfer. No transfer, only resemblance. 
+
+As a consequence of her fictionality, we can safely infer that the particular sales booth she constructed similarly does not and cannot exist in the actual world. At best we could encounter a sales booth quite like it, just as they could be persons in the actual world quite like Briony. But those very particulars are 'encapsulated' in the world of fiction.
 
 This rests on a mistake.
 
@@ -113,6 +124,7 @@ What does this mean for the reassurance we thought to have that monsters from a 
 
 Fictional entities, within limits, can enter into the real world. Here I should mention that the converse is of course very familiar. Real things, people and the like can become the central characters in a fictional narrative. 
 
+Note. Earlier I said that for fictional particulars, typically, they do not exist and could not exist in the real world. I've shown that this is false as a general thesis, because some fictional particulars can exist in the real world. There is a question: once we have a fiction in which a play, say, is created, should we now say that this play also does exist in the actual world? That would render the revision of Encapsulation even more thorough-going. I think there's some reason to take also this seriously.
 
 It seems to me that the explanation for this possibility has to do with the fact that a play is a _repeatable_ artefact. It is something created at a specific point in time, but it allows for instances of it to be generated. 
 
