@@ -39,7 +39,7 @@ So where does that leave us? I've suggested we can actually perform a fictional 
 
 I now want to address an line of reasoning that seems to offer a way out. On this line all I have identified is the _appearance_ of transfer, and not the real thing. That is, we would merely appear to perform _The Trials_ in our little experiment, but in fact do nothing more than perform a play that closely resembles _The Trials_. 
 
-To understand this line of reasoning, it is helpful briefly to list the relevant assumptions that form the backdrop of my discussion.
+To understand this line of reasoning, it is helpful briefly to list the relevant assumptions that form the backdrop of my discussion and the dialectic I am interested in.
 
 1. _The Trials_ cannot actually exist
 2. _The Trials_ is a play
@@ -47,13 +47,15 @@ To understand this line of reasoning, it is helpful briefly to list the relevant
 4. We can actually perform _The Trials_
 5. If one can actually perform a particular play, then that play can actually exist
 
-The first assumption, that _The Trials_ cannot actually exist, seems to follow from the Encapsulation Thesis together with the fact that _The Trials_ finds its origin in a fiction. _The Trials_ obviously is a play, at least according to the fiction, as obviously as Sherlock Holmes is a detective. The third assumption seems equally clear to me (though some people have wished to deny it). Plays are historical artefacts that allow for multiple instantiations. Also the fifth assumption seems straightforward, and follows simply from the nature of repeatable types. If one can build a Buick car, then a Buick car can actually exist---one can be _run over_ by a Buick, which simply proves that it actually exists.
+At least one of these assumptions needs to give way. I'm suggesting it's the first. That first assumption, that _The Trials_ cannot actually exist, seems to follow from the Encapsulation Thesis together with the fact that _The Trials_ finds its origin in a fiction. The opponent I want to consider here accepts ET and so accepts that first premise. They maintain it's only the fourth premise that is false. 
 
-It is the fourth assumption that may seem most controversial. Can we can actually perform _The Trials_? It could be suggested that because _The Trials_ is a _particular_ (cf. 2,3), and to wit a fictional one, at best the real world can include a play that is just like _The Trials_, in the way Pierre Menard's story is just like Cervantes' _Don Quixote_ but not the same story. 
+Both of us accept 2, 3, and 5. But let me say something about these claims briefly. The second assumption seems unproblematic _The Trials_ obviously is a play, at least according to the fiction, as obviously as Sherlock Holmes is a detective. The third assumption seems equally clear to me (though some people have wished to deny it). Plays are historical artefacts that allow for multiple instantiations [see @walters2012aa for a defence of this claim]. Also the fifth assumption seems straightforward, and follows simply from the nature of repeatable types. If one can build a Buick car, then a Buick car can actually exist---one can be _run over_ by a Buick, which simply proves that it actually exists.
+
+It is the fourth assumption that is the controversial one. Can we can actually perform _The Trials_? It could be suggested that because _The Trials_ is a _particular_ (cf. 2,3), and to wit a fictional one, at best the real world can include a play that is just like _The Trials_, in the way Pierre Menard's story is just like Cervantes' _Don Quixote_ but not the same story. 
 
 This line of reasoning can only be confidently maintained when an over-generalisation is made. It is true that a _particular_ building erected in a fiction cannot be also erected in the actual world. It could be thought that at best we can make things that resemble the fictional entity. As a consequence of her fictionality, we can safely infer that the particular sales booth she constructed similarly does not and cannot exist in the actual world. At best we could encounter a sales booth quite like it, just as they could be persons in the actual world quite like Briony. But those very particulars are 'encapsulated' in the world of fiction. We cannot make the fictional entity. The example shows no transfer. No transfer, only resemblance. 
 
-At least one of these assumptions needs to give way. I'm suggesting it's the first. The current line of reasoning suggests it is only the fourth. We cannot actually perform _The Trials_, only a play just like it.
+
 
 Now it is true that the example deals with repeatable works, but also for repeatable works it seems that the reasoning holds. Similarly etching, for instance. This is what leads to confidence. 
 
