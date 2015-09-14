@@ -18,14 +18,41 @@ Although no doubt based on real people, Briony is a merely fictional character. 
 
 There is something puzzling about such a play, as a fictional work. Any play can be performed. And in the story it is performed. We read how Briony rehearses its lines with her bored cousins,  and how, a few pages later, the household prepares itself for the first performance of the piece. It seems uncontroversial that works written or composed in a fiction can also be performed in that fiction (as it turns out, the first performance in the story is only more than half a century later, close to the end). We are very familiar with stories that tell us of the execution or performance of merely fictional works, and there does not seem anything strange about this [see also @hayaki2009aa, who focuses on fictions in fictions, and investigates their nested structure using iterative fiction operators]. Yet it seems equally clear that Briony's play can just as well be presented to an audience outside McEwan's story. And here I do not mean to an audience in _another_ story, as when a fictional entity that originates in one corpus makes a _cameo_, as it were, in another fictional work. I mean that the play could just as well be performed by actual people, to an actual audience, on an actual stage. If some of us got together and tried, I don't see why we couldn't try performing _The Trials of Arabella_, the play Briony wrote, right now in this very room. 
 
-On the face of it the play Bethany wrote is not a real play. Just as Sherlock Holmes is not a real detective or the Bogeyperson is not a real monster, Briony's play does not seem to be a creature of the actual world. Yet if we saw people on a stage trying to perform _The Trials_, giving voice to its lines and expression and life to its characters, wouldn't we be willing to say they were performing a play? Wouldn't we be willing to say that it was _The Trials_ they were performing? And wouldn't we be happy to attribute that play to Briony? If so, it seems, Briony's play would also not seem fictional to us, as it would be performed right before our eyes. he puzzle is that we have just as much reason to deny that the play performed on the stage is fictional as we have reason to deny that it is real.
+On the face of it the play Bethany wrote is not a real play. Just as Sherlock Holmes is not a real detective or the Bogeyperson is not a real monster, Briony's play does not seem to be a creature of the actual world. Yet if we saw people on a stage trying to perform _The Trials_, giving voice to its lines and expression and life to its characters, wouldn't we be willing to say they were performing a play? Wouldn't we be willing to say that it was _The Trials_ they were performing? And wouldn't we be happy to attribute that play to Briony? If so, it seems, Briony's play would seem to be a fictional particular that has entered the actual world. A fictional thing would be performed right before our eyes.
 
-I think this possibility has philosophical ramifications. In what follows I want to defend a conclusion. I first propose an explanation of this phenomenon. The explanation I want to propose points to the _abstract_ character of the works in question: all of them are _types_, artefacts created by people that allow, because of the kind of thing they are, for multiple instantiation. My point I hope will make good sense, and is not far fetched at all. I want to bring out is that the predicate 'fictional' or 'real' and the qualification 'in the fiction' or 'in the real world' do not apply at the level of types (this is very tentative and needs revision).
+The example just introduced threatens the idea that the actual world and fictional worlds are 'encapsulated' or 'insulated'. When we tell children that something is 'only a story', we build our words of comfort on the assumption that, as we could put it, what happens in the fiction stays in the fiction. The encapsulation thesis may be comforting in light of stories about monsters. It seems to be in addition the reason why a possible-world model of fiction are so popular. Both fictions as conceived and possible worlds are encapsulated. There is no interaction between fictional worlds and the actual world _and_ there is no transfer of fictional entities into the real world.
 
+I think this possibility has not received enough (if any) philosophical attention. In what follows I want to defend a conclusion. I first propose an explanation of this phenomenon. The explanation I want to propose points to the _abstract_ character of the works in question: all of them are _types_, artefacts created by people that allow, because of the kind of thing they are, for multiple instantiation. My point I hope will make good sense, and is not far fetched at all. I want to bring out is that the predicate 'fictional' or 'real' and the qualification 'in the fiction' or 'in the real world' do not apply at the level of types (this is very tentative and needs revision).
 
-## Authorship in fiction
+## Either we can't perform Briony's play, or Encapsulation is false 
 
-At first gloss, some may think this is all due to a confusion about authorship. According to the fiction, Briony wrote _The Trials_, but in the actual world its author was McEwan. And so, if we were to perform _The Trials_ we would be performing a play actually written by an actual author in the actual world. And surely there's nothing puzzling about that---the initial paradox dissipates.
+But then it seems that the example just introduced presents us with a dilemma. The fact that we can perform Briony's play example entails, it seems, that a fictional entity can transfer into the actual world. This violates the 'encapsulation'. Suddenly, something that happened in the fiction (i.e. a certain play) does not stay in the fiction, but bleeds into our own lives.
+
+Let me say more precisely why this example undermines the encapsulation thesis. First of all, the insulation is about particulars, not universals. With universals I mean those things that abide only to the criteria of resemblance for their identity. It will be clear that there is no reason to think that a fictional entity and a real entity cannot instantiate the same universal, but then on the other hand it is not clear how a universal could be generated within a fiction (many think universals are timeless). 
+
+What matters is that we're dealing with transfer of particulars, entities that are essentially historical. Incapsulation needs to be understood quite specifically: a particulars of a kind that finds its origin in a a fiction cannot exist as a particular of that kind in the actual world. (This is phrased this way to avoid a clash with those that take fictional entities to be actually existing abstracta. If Sherlock Holmes is an abstract entity, then he still isn't _actually_ a particular detective.) 
+
+Now some may want to allow that what goes on in the actual world can affect proceedings in a fiction, in that fictions may incorporate actual things; but even these people agree it seems that the converse does not hold. So either encapsulation/insulation goes, or the example is not a genuine case of transfer. Either we can't perform Briony's play, or Encapsulation is false
+
+## Against an argument against transfer: we can perform Briony's play
+
+It could be thought that at best we can make things that resemble the fictional entity. We cannot make the fictional entity. 
+
+This would show that one of the horns of the dilemma is not problematic at all. Indeed, the example shows no transfer. No transfer, only resemblance. 
+
+This rests on a mistake.
+
+Let me briefly list the relevant assumptions that are in play here. 
+
+1. _The Trials_ does not exist
+2. _The Trials_ is a play
+2. Plays are repeatable particulars
+3. We (can) perform _The Trials_
+4. If one performs a play, then the play actually exists
+
+Perhaps buildings don't allow for transfer. Or perhaps, of repeatable particulars, prints do not. But plays or theatre are, I will assume, repeatable particulars. They are 'created types'. More specifically, they are created types for which notation secures authenticity. This is a point Nelson Goodman has brought out a while ago: that because of their entanglement with notation, and their being 'allographic', here we have particulars that do allow for transfer. 
+
+Another response. At first gloss, some may think this is all due to a confusion about authorship. According to the fiction, Briony wrote _The Trials_, but in the actual world its author was McEwan. And so, if we were to perform _The Trials_ we would be performing a play actually written by an actual author in the actual world. And surely there's nothing puzzling about that---the initial paradox dissipates.
 
 It is common to adopt approach claims about fictions and claims in fictions with a specific object language operator ($\oint$), roughly capturing the interjection 'according to the story,...' or 'in the fiction,...'. (Note, 'the story' here is quite flexible: it can mean a specific work, a specific corpus of works, or even fiction in general [cf. @sainsbury2005aa, p. 203].) This allows us to represent more precisely how the present suggestion purports to resolve the puzzle. 
 
@@ -76,7 +103,15 @@ We may contrast this. Sainsbury writes that
 
 The previous of course does not make the puzzle go away. But what it does do is remove one apparent way out that may have seemed attractive. This would be to propose that although we can perform the play in real life, when we do so it would not be true of the work we perform that Briony wrote it. The point is that this would be to have one's cake and eat it, which in this case does not seem possible. For, either we are not performing that particular play (merely a counterpart of it), or she did write it, be it in the fiction. We are working on the hypothesis that it is at least in principle possible to stage or print fictional works, and so should conclude that it is at least in principle possible that a fictional character wrote the play we staged. The important thing to realise is that this does not commit us to the claim that Briony wrote that play in the actual world. She didn't. All we need to acknowledge that it is actually true that Briony wrote that play in a fiction. 
 
-## Resolving the puzzle: abstract entities and the reality/fiction divide
+## Incapsulation is false: now what?
+
+If the example shows a genuine possibility of transfer, and if transfer undermines Encapsulation, then Encapsulation has to give way.
+
+What does this mean for our reliance on possible worlds to model what happens in a fiction? Back to the possible worlds. 
+
+What does this mean for the reassurance we thought to have that monsters from a story can't come out to haunt us in real life? Back to the monsters. 
+
+Fictional entities, within limits, can enter into the real world. Here I should mention that the converse is of course very familiar. Real things, people and the like can become the central characters in a fictional narrative. 
 
 
 It seems to me that the explanation for this possibility has to do with the fact that a play is a _repeatable_ artefact. It is something created at a specific point in time, but it allows for instances of it to be generated. 
@@ -86,13 +121,7 @@ I've pointed to a phenomenon that seems very well possible. I've constructed an 
 
 What is the explanation? In brief, i want to suggest that it is because they are abstract that certain fictional entities are able to make the jump into the real world, with some help of course.
 
-The claim that plays, novels, operas and the like are abstract is familiar. It is commonly held that such works are _types_. But it is controversial. It is controversial because this would seem to require abstract entities to be created at some point in time. I think that those sceptical of this possibility are in the grip of an overgeneralisation (see @walters2012aa for a clear diagnosis of this mistake). Several authors have defended the idea that a play or a novel is a repeatable type that was created by someone at some point in time. I find that idea plausible, it captures well the idea that such works are repeatable and that they are created. 
 
-Note, however, I do not think that the explanation I need to defend here needs to be very specific about the sort of abstracta novels or operas are. Indeed, it would be unwelcome if the explanation we arrive at was dressed up with the wardrobe of very specific positions in the philosophy of art if those specific positions were not themselves entailed by the possibility of the kind of fiction/reality transgressions I identified above. (A bit abstractly phrased, this, but we get the point: I want to take care not to make assumptions unnecessarily.) Here's Walters on this point:
-
-> The claim that repeatable artworks are types which are created constitutes the bare-bones of a type-creationist treatment of repeatable artworks, a treatment that can be fleshed out in numerous ways. [@walters2012aa, p. ??]
-
-What I do here is take on board the obvious claim that repeatable artworks are types, and I will assume for the sake of argument that they are created ones. That is as far as I need to go. I think that, as uncreated types, it is fairly obvious that such works allow for instances in the actual world as well as in the world of the fiction. It really is a 'creationist' attitude towards repeatable works that presents us with the puzzle. This is because as created types such works seem tied to a history or world in a way that makes it unclear how they could escape it.
 
 The main point about novels, operas and the like is that they are repeatable. This is a pretheoretic datum, I think. We start out with the observation that some works allow for multiple instances, performances or incarnations, whereas others do not. The idea that some works are 'types' is a theoretical way of giving this prima facie difference a place in our theorising about the nature of works of art. So far so good. This is a story that has been told over and over again, and it does not in any way involve the phenomenon of fiction-to-world transgressions I identified above. In other words, the starting point of the explanation I want to defend is completely general, familiar, and widely accepted: some works of art allow for multiple instantiations. 
 
@@ -107,6 +136,22 @@ In answer to this question, there _is_ indeed a good reason to think this. So mu
 I find this a good point. But to my mind, all it shows is that being abstract is not sufficient for the kind of fiction-to-world jump we've been interested in to be possible. It doesn't show that it is impossible, for it is not at all obvious that all instantiations of abstract works are in that way dependent on a causal/historical tie. In the next section I want to explain how there's an alternative route to instantiation, but also that this alternative route requires a work of art of a very specific sort.
 
 The point I have wanted to make in this section is that because plays, novels, and operas allow are repeatables, fictional novels, plays, and operas can be printed, performed and sung in real life. What seemed an _obstacle_ to this, the fact that they are created merely in a fiction, is not an obstacle. And this is telling. What does it tell? It tells us something about the place of such abstract objects. They neither belong to the actual world, nor to any possible world, but they hover strangely over them, so to say. They are like balloons let up by individuals, able to drift across borders. 
+
+## 'Natively fictional' 
+
+Introduce and define notion of being natively fictional, and show how some native fictional things can inhabit our world. Perhaps Jules Verne? Mathematical problem solved in Futurama.
+
+## Plays as created types?
+
+Comment on framework of created types, which I have assumed to be correct.
+
+The claim that plays, novels, operas and the like are abstract is familiar. It is commonly held that such works are _types_. But it is controversial. It is controversial because this would seem to require abstract entities to be created at some point in time. I think that those sceptical of this possibility are in the grip of an overgeneralisation (see @walters2012aa for a clear diagnosis of this mistake). Several authors have defended the idea that a play or a novel is a repeatable type that was created by someone at some point in time. I find that idea plausible, it captures well the idea that such works are repeatable and that they are created. 
+
+Note, however, I do not think that the explanation I need to defend here needs to be very specific about the sort of abstracta novels or operas are. Indeed, it would be unwelcome if the explanation we arrive at was dressed up with the wardrobe of very specific positions in the philosophy of art if those specific positions were not themselves entailed by the possibility of the kind of fiction/reality transgressions I identified above. (A bit abstractly phrased, this, but we get the point: I want to take care not to make assumptions unnecessarily.) Here's Walters on this point:
+
+> The claim that repeatable artworks are types which are created constitutes the bare-bones of a type-creationist treatment of repeatable artworks, a treatment that can be fleshed out in numerous ways. [@walters2012aa, p. ??]
+
+What I do here is take on board the obvious claim that repeatable artworks are types, and I will assume for the sake of argument that they are created ones. That is as far as I need to go. I think that, as uncreated types, it is fairly obvious that such works allow for instances in the actual world as well as in the world of the fiction. It really is a 'creationist' attitude towards repeatable works that presents us with the puzzle. This is because as created types such works seem tied to a history or world in a way that makes it unclear how they could escape it.
 
 ## Notation
 
@@ -124,7 +169,6 @@ When we talk about abstracta, we can talk about universals or particulars. If we
 
 Let me briefly sum up where this leaves us. We're concerned with repeatable artworks that figure in a fiction. The question is, can instances of such works make their way into the real world? I noted that if we conceive of repeatable works as 'pure universals', there is nothing strange or controversial about the idea. This is because something instantiates a pure universal already if it has the right qualitaties: the identity of such universals is a matter of mere resemblance. It is only if we think that these repeatable artworks are not pure universals but created types. I explained why it is compelling to think that they are, but it should then be clear that the puzzle becomes pressing. As created types, I explained, works can allow their instances to be produced by copying or imprinting or some other form of historical 'sympathy' (there is an interesting tie between these forms of production and forms of magic as described most famously by Frazer). But other created types are such that their instances can be generated simply by following a score or recipe. I suggested that this kind of following seems to be more than just accidental conformation, and has an intentional component. However, I suggested, this intentional component does not presuppose the kind of historical contiguity that is presupposed by the sympathetic model. So it is not right to think that tokens of all created types must trace an historical chain. When there's a score or recipe, the intention to follow that recipe ('the recipe for producing an instance of this type') may be sufficient for the production of a token, when successful to a relevant degree. 
 
-
 ## 'Real' and 'Fictional'
 
 I now want to argue that the play Briony wrote was neither real nor fictional in the way Ian McEwan is real and Sherlock Holmes fictional. This is (in part?) because a play is not a concrete particular but an abstract one. The situation is this: we've got two predicates that typically are taken to be exclusive (contraries). If some x is fictional, it isn't real, and if it is real it isn't fictional. But are they also contradictories? That is, if we know something isn't real, do we know it's fictional and vice versa? I think this is not the case. Not all unreal things are fictions, it seems. The highest prime number, for example, doesn't exist but it isn't a fictional entity either. (Are all possibilia either real or fictional? Also not, I think, but that point needs further defence.)
@@ -138,3 +182,7 @@ Science fiction is a genre that is full of fictional artefacts, things or produc
 ## The view that fictional entities are abstract objects
 
 Some suggest that fictional entities or characters as such are abstract objects. Though not in obvious contradiction with what I said, this view sits ill with the way I have proposed to think of the situation. To my mind, it seems clear that Sherlock Holmes was intended as a concrete individual in the world of the fiction. What is gained by holding onto the idea that he is nonetheless an abstract entity? 
+
+## Conclusions
+
+I've argued that either we can't perform Briony's play, or Incapsulation is false. I've further shown how there is a clear reason to think that we can perform Briony's play, a reason rooted in the notation of such works. 
