@@ -12,7 +12,7 @@ What happens in a fiction, stays in a fiction, right? Wrong. Some works of ficti
 
 I think this possibility has not received enough (if any) philosophical attention. In what follows I want to have a closer look at the pressure this example puts on the way we tend to conceive of the relation between fiction and reality. I will conclude that, given the status of plays, novels, and pieces of music as created, repeatable particulars, we need to give up a common assumption that particulars that find their origin in a fiction are encapsulated in the world of fiction.
 
-# Fictional works vs Encapsulation
+# Fiction and Encapsulation
 
 Let me begin with a specific example. Briony, the main character of Ian McEwan's _Atonement_, writes a play, _The Trials of Arabella_. We don't hear too much about it in the book, but get a general sense of its plot, its main characters, and some of its most dramatic lines. I'll assume that one would have enough to go on to perform it. What is made very clear: _The Trials of Arabella_ was written by Briony, and Briony alone. As McEwan describes:
 
@@ -36,7 +36,7 @@ On the face of it, the play Bethany wrote is not a real play, just as Sherlock H
  
 So where does that leave us? I've suggested we can actually perform a fictional work such as _The Trials of Arabella_. If one can perform a fictional work, then a fictional particular can exist actually. But the Encapsulation thesis entails that no fictional particular can exist actually. Such fictions are supposed to be encapsulated. 
 
-Now we shouldn't get too worried, as it seems still fine to trick children to believe the Encapsulation Thesis if it makes them sleep better. But as a philosophical thesis about fiction that thesis is untenable. (I'll present this argument more formally a few pages down.)
+We shouldn't get too worried; it seems still fine to trick children to believe the Encapsulation Thesis if it makes them sleep better. But as a philosophical thesis about fiction that thesis is untenable. (I'll present this argument more formally a few pages down.)
 
 # Against an argument against transfer
 
@@ -54,11 +54,11 @@ Now of course we have already seen that a play is not just any sort of particula
 
 I suggested that if you and I got together and tried, there seems to be no good reason why in principle we couldn't perform _The Trials of Arabella_, the play Briony wrote, right now in the very room we're in. The objection now is that there is such a reason: particulars, even repeatable ones, are tied to their historical setting in a way that confines them to it. It seems that here particularity trumps repeatability.
 
-Were it not for the role of notation. The objection assumes that instances of all repeatable particulars depend on a historical path from original to print or reproduction. This is an overgeneralisation. Lee Walters puts it nicely when he writes that for all repeatable works, "Further tokens can be generated... either by copying existing tokens, _or else_ by producing tokens according to a recipe, or from storage." [@walters2013aa, p. ??, my italics]. Even if we cannot genuinely copy or reproduce an etching merely created in a fiction, we can generate instances of a play by executing its stage directions and script. _Notation_ makes plays, novels, poems and the like into a special sort of repeatable particulars. They are _allographic_, to use Goodman's term. And even when fictionally created, such repeatables can be printed, performed or sung in real life, as long as their fictional scores or scripts are accessible. Ultimately, notation trumps particularity. 
+Were it not for the role of notation. The objection assumes that instances of all repeatable particulars depend on a historical path from original to print or reproduction. Though that assumption is commonly made, it is is an overgeneralisation. At least as we typically conceive of them, for all repeatable works further instances can be generated either by mechanically copying from existing instances, or from an original plate or mould, _or else_ by producing instances by following a set of guidelines or recipe [cf. @walters2013aa, p. ??]. And so even if we cannot genuinely copy or reproduce an a repeatable work merely created in a fiction, we may still be able to generate instances of it by following a set of guidelines or recipe, if it comes with them. And some works come with such guidelines essentially. _Notation_ makes plays, novels, poems and the like into a special sort of repeatable particulars. They are _allographic_, to use Goodman's term. And even when fictionally created, such repeatables can be printed, performed or sung in real life, as long as their fictional scores or scripts are accessible. Ultimately, notation trumps particularity. 
 
-# Incapsulation is false: now what?
+# Encapsulation is false: now what?
 
-There can be counterexamples to the Encapsulation Thesis not because fictional works can be repeatable particulars, but because they can be repeatable particulars of a specific, allographic sort. They can be particular things created at a specific point in a fictional history, and allow for instances to be generated in light of a set of rules or following a procedure. All that is required is that someone pick up that task, whether they themselves are merely fictional or not. I have explained how this entails that fictional works can break free from their historical setting in a way that is impossible for other sorts of particulars, such as people, buildings and etchings. 
+The previous makes clear that there can be counterexamples to the Encapsulation Thesis not because fictional works can be repeatable particulars, but because they can be repeatable particulars of a specific, allographic sort. They can be particular things created at a specific point in a fictional history, and allow for instances to be generated in light of a set of rules or following a procedure. All that is required is that someone pick up that task, whether they themselves are merely fictional or not. I have explained how this entails that fictional works can break free from their historical setting in a way that is impossible for other sorts of particulars, such as people, buildings and etchings. 
 
 I should flag briefly that this conclusion raises several interesting questions for the metaphysics of artefacts, but they are questions that do not fall within the purview of this paper.
 
@@ -87,9 +87,9 @@ Although it may seem far-fetched at first, I think there's some reason to take a
 
 Recall, the Encapsulation Thesis maintains that Sherlock Holmes, because it is a merely fictional detective, cannot actually exist, at least not as a detective. And so we can use (6) to undermine the Encapsulation Thesis:
 
-7. _The Trials_, a fictional particular, can actually exist
-8. If the Encapsulation Thesis is right, then a fictional particular cannot actually exist
-9. Therefore, the Encapsulation Thesis is not right 
+6. _The Trials_, a fictional particular, can actually exist
+7. If the Encapsulation Thesis is right, then a fictional particular cannot actually exist
+8. Therefore, the Encapsulation Thesis is not right 
 
 The reasoning here is straightforward. In the previous I considered the 5th premise most controversial, and defended it against an objection. 
 
@@ -98,9 +98,9 @@ An actual performance of a play suffices for that play to exist actually. So the
 1. _The Trials_ is a fictional particular 
 2. _The Trials_ is a play 
 3. Plays are repeatable particulars
-4'. If one can actually perform a repeatable particular, then that particular __does__ actually exist
+4. * If one can actually perform a repeatable particular, then that particular __does__ actually exist
 5. We can actually perform _The Trials_
-6'. Therefore, _The Trials_ __does__ actually exist 
+6. * Therefore, _The Trials_ __does__ actually exist 
 
 This leaves the overall conclusion unaltered, but it seems to allow us to draw a stronger subconclusion in (6.).
 
