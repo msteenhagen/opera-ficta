@@ -44,34 +44,7 @@ There is something to this, no doubt. Think of a building. It is true that a _pa
 
 Of course, our example drives on the assumption that _The Trials_ is a repeatable particular. And as a repeatable particular, it is surely exempted from the strictures that confine Fictional Building, Sherlock Holmes, and the like? In fact that is not obvious, and it seems here that the plausibility of the alternative we're considering has its roots. Even if we turn to repeatable particulars, there is something to the line of thinking that also they are bound to a historical setting. 
 
-Take an etching, for instance. This is what leads to the confidence of the claim that, as a _repeatable particular_, _The Trial_ is necessarily bound to its historical setting (now fictional) and hence encapsulated in the fiction.  
-
-
-Indeed, Plays, novels, and operas  are repeatables, fictional novels, plays, and operas can be printed, performed and sung in real life. What may at first sight seem an _obstacle_ to their repetition in the real world, the fact that they are created merely in a fiction, is not an obstacle.  
-
-
-
-
-That seems to encapsulate it from the real world. However, as a play it is a repeatable particular. And that seems to free it from the fiction. 
-
-1. _The Trials_ is a fictional particular 
-2. _The Trials_ is a play 
-3. Plays are repeatable particulars
-4. If one can actually perform a repeatable particular, then that particular can actually exist
-5. We can actually perform _The Trials_
-6. Therefore, _The Trials_ can actually exist 
-
-
-At least one of these assumptions needs to give way. I'm suggesting it's the first. That first assumption, that _The Trials_ cannot actually exist, seems to follow from the Encapsulation Thesis together with the fact that _The Trials_ finds its origin in a fiction. The opponent I want to consider here accepts ET and so accepts that first premise. They maintain it's only the fourth premise that is false. 
-
-Both of us accept 2, 3, and 5. But let me say something about these claims briefly. The second assumption seems unproblematic _The Trials_ obviously is a play, at least according to the fiction, as obviously as Sherlock Holmes is a detective. The third assumption seems equally clear to me (though some people have wished to deny it). Plays are historical artefacts that allow for multiple instantiations [see @walters2012aa for a defence of this claim]. Also the fifth assumption seems straightforward, and follows simply from the nature of repeatable types. If one can build a Buick car, then a Buick car can actually exist---one can be _run over_ by a Buick, which simply proves that it actually exists.
-
-It is the fourth assumption that is the controversial one. Can we can actually perform _The Trials_? It could be suggested that because _The Trials_ is a _particular_ (cf. 2,3), and to wit a fictional one, at best the real world can include a play that is just like _The Trials_, in the way Pierre Menard's story is just like Cervantes' _Don Quixote_ but not the same story. 
-
-It is true that a _particular_ building erected in a fiction cannot be also erected in the actual world. It could be thought that at best we can make things that resemble the fictional entity. As a consequence of her fictionality, we can safely infer that the particular sales booth she constructed similarly does not and cannot exist in the actual world. At best we could encounter a sales booth quite like it, just as they could be persons in the actual world quite like Briony. But those very particulars are 'encapsulated' in the world of fiction. We cannot make the fictional entity. The example shows no transfer. No transfer, only resemblance. 
-
-
-Now it is true that the example deals with repeatable works, but also for repeatable works it seems that the reasoning holds. Take an etching, for instance. This is what leads to confidence. 
+Take an etching, for instance. This is what leads to the confidence of the claim that, as a _repeatable particular_, _The Trial_ is necessarily bound to its historical setting (now fictional) and hence encapsulated in the fiction. 
 
 Plays, novels, and operas are _allographic_ repeatables, to use Goodman's term. Fictional novels, plays, and operas can be printed, performed and sung in real life. What may at first sight seem an _obstacle_ to their repetition in the real world, the fact that they are created merely in a fiction, is not an obstacle.  
 
