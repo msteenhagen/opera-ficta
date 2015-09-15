@@ -118,11 +118,6 @@ So the main message here is twofold. The first part is that __if it is possible 
 The second part is about what is presupposed in the antecedent. It is only possible to generate tokens of a type if an embodiment of the type exists. This is a necessary condition. And so, given that we clearly can perform _The Trials of Arabella_, an embodiment of that play must exist. And we don't have to search long to find it: it is contained ('stored', in a way) in McEwan's novel. 
 
 
-
-
-
-
-
 # 'Natively fictional' 
 
 > The creationist will want to draw a distinction between ‘native’ and ‘immigrant’ objects in a fiction: an ‘immigrant’ fictional object is one which came into existence due to a previously told fiction, or comes from the real world, while a ‘native’ fictional object, for a given fiction, is one which first appears in that fiction. This terminology is from Parsons (1980: 51–52). [@nolan2014aa, p. 617]
