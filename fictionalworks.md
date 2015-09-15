@@ -25,7 +25,9 @@ Let me begin with a specific example. Briony, the main character of Ian McEwan's
 Although no doubt based on real people, Briony does not actually exist, at least not as the person she is. _There exists no person that is Briony, nor could that person actually exist._ Briony is a merely fictional character. And so is her finished draft merely a fictional draft. And her sales booth too is a fictional one. From the draft and sales booth she constructs in the course of the narrative to every particular tear she sheds, every particular thing that finds its origin in Briony's activity in the story is merely fictional. There could not exist in the actual world something that is that sales booth, or that tear. Or so it seems.
 
 <!-- The Encapsulation thesis, widely endorsed, entails that no fictional particular can exist actually -->
-Particulars that find their origin in a fiction are encapsulated in the world of fiction. When we tell children that something is 'only a story', we build our words of comfort on this assumption. _For any particular that has its origin solely in a story, there exists nothing identical to it, nor could there exist something identical to it._ What happens in the fiction, stays in the fiction. The grip this Encapsulation Thesis (ET) has on us is reflected in the wide-spread conviction that the relation between the real world and the world of fiction may be modelled on the relation between the actual world and possible worlds.
+Particulars that find their origin in a fiction are encapsulated in the world of fiction. When we tell children that something is 'only a story', we build our words of comfort on this assumption. _It is not just that the Bogeyman or Sherlock Holmes does not actually exist, it maintains that they could not actually exist._ What happens in the fiction, stays in the fiction. The grip this Encapsulation Thesis (ET) has on us is reflected in the wide-spread conviction that the relation between the real world and the world of fiction may be modelled on the relation between the actual world and possible worlds.
+
+(I should note that ET does not rule out that Sherlock Holmes actually exists as a fictional character. Some authors have wished to claim that fictional characters actually exist, as some sort of cultural construction for example. This captures the idea that the Bogeyman is harmless because she is just a fictional being. What ET maintains is that the Bogeyman or Sherlock Holmes could not actually exist as a scary creature or as a London detective.)
 
 <!-- To perform a fictional work is to make a fictional particular exist actually -->
 Fictional works such as Briony's _The Trials of Arabella_ are counterexamples to ET. _The Trials of Arabella_ is a particular work of theatre, written by Briony in a wholly fictional story. It seems uncontroversial that works written or composed in a fiction can also be performed in that fiction (as it turns out, the first performance in the story is only more than half a century later, close to the end). We are very familiar with stories that tell us of the execution or performance of merely fictional works, and there does not seem anything strange about this [see also @hayaki2009aa, who focuses on fictions in fictions, and investigates their nested structure using iterative fiction operators]. Yet it seems equally clear that Briony's play can just as well be presented to an audience outside McEwan's story. And here I do not mean to an audience in _another_ story, as when a fictional entity that originates in one corpus makes a _cameo_, as it were, in another fictional work. I mean that the play could just as well be performed by actual people, to an actual audience, on an actual stage. If some of us got together and tried, I don't see why we couldn't try performing _The Trials of Arabella_, the play Briony wrote, right now in this very room.
@@ -56,7 +58,6 @@ Although it is difficult to draw a sharp line, it is clear that the kinds of thi
 
 # Incapsulation is false: now what?
 
-
 The explanation for this possibility has to do with the fact that a play is a _repeatable_ artefact, but repeatables of a specific sort. It is something created at a specific point in time, but it allows for instances of it to be generated in light of a set of rules or following a procedure, instead of a mere mechanical mind-less sort of reproduction. This raises interesting questions for the metaphysics of artefacts that I plan to pursue elsewhere.
 
 What matters for a theory of fiction and of the place of fictional entities is the argument against Encapsulation. If the example shows a genuine possibility of transfer, and if transfer undermines Encapsulation, then Encapsulation has to give way.
@@ -69,7 +70,9 @@ Fictional entities, within limits, can enter into the real world. Here I should 
 
 # A modally stronger premise
 
-Earlier I said that for fictional particulars, typically, they do not exist and could not exist in the real world. I've shown that this is false as a general thesis, because some fictional particulars can exist in the real world. There is a question: once we have a fiction in which a play, say, is created, should we now say that this play also does exist in the actual world? That would render the revision of Encapsulation even more thorough-going. I think there's some reason to take also this seriously. Recall, these were the assumptions I spelled out earlier: 
+Earlier I said that for fictional particulars, typically, they do not exist and could not exist in the real world. I've shown that this is false as a general thesis, because some fictional particulars can exist in the real world. There is a question: once we have a fiction in which a play, say, is created, should we now say that this play also does exist in the actual world? That would render the revision of Encapsulation even more thorough-going. I think there's some reason to take also this seriously. 
+
+At this point it is helpful to present my argument in a more formal way: 
 
 1. _The Trials_ is a fictional particular 
 2. _The Trials_ is a play 
@@ -80,24 +83,44 @@ Earlier I said that for fictional particulars, typically, they do not exist and 
 7. If ET is right, then a fictional particular cannot actually exist
 8. Therefore, ET is not right 
 
+Recall, the Encapsulation Thesis maintains not just that Sherlock Holmes does not actually exist, at least not as a detective, it maintains that he could not actually exist, at least not as a detective. 
+
 An actual performance of a play suffices for that play to exist actually. So the if a play can possibly be actually performed, it possibly actually exists. So fa so good. Now we can make a further argument based on the following: 
 
 1. _The Trials_ is a fictional particular 
 2. _The Trials_ is a play 
 3. Plays are repeatable particulars
-4. If one can actually perform a repeatable particular, then that particular __does__ actually exist
+4'. If one can actually perform a repeatable particular, then that particular __does__ actually exist
 5. We can actually perform _The Trials_
-6. Therefore, _The Trials_ __does__ actually exist 
+6'. Therefore, _The Trials_ __does__ actually exist 
 7. If ET is right, then a fictional particular cannot actually exist
 8. Therefore, ET is not right 
 
 This leaves the overall conclusion unaltered, but it seems to allow us to draw a stronger subconclusion in (6.).
 
-The argument leads to an even bolder conclusion. It rests on stronger assumptions. In particular, it exploits the assumption that: If one can perform play x, then x actually exists. This may seem incredible, but there is something to be said for it, as long as we understand 'can' in the right way (as always, 'can' needs to be understood in the right way). If by 'can perfom' we mean that the materials are available to us, i.e. we have access to the notation or can reasonably believe we have reconstructed (part of) the notation, then the assumption is acceptable, I think. And with that sense of 'can' in mind, Briony's play, or similar plays such as Hamlet's _The Mousetrap_, _can_ actually be performed. 
+So potentially the argument leads to an even bolder conclusion. This requires us to make a stronger assumption (4.). It exploits the assumption that: If one can perform play x, then x actually exists. This may seem incredible, but there is something to be said for it, as long as we understand 'can' in the right way (as always, 'can' needs to be understood in the right way). If by 'can perfom' we mean that the materials are available to us, i.e. we have access to the notation or can reasonably believe we have reconstructed (part of) the notation, then the assumption is acceptable, I think. And with that sense of 'can' in mind, Briony's play, or similar plays such as Hamlet's _The Mousetrap_, _can_ actually be performed. 
 
 The conditional is acceptable because there are nights a particular play is not performed. Yet it doesn't cease to exist. Why not? Because it can still be performed, in just this sense of can. 
 
-An alternative way to go: the play is merely fictional as long as no tokens of it exist in the actual world. As soon as a token of the play exists in the actual world, the play itself exists (as a type) in the actual world. (Walters brings out how "what is required to avoid problems with the persistence of properties and repeatable artworks is to reject The Strengthened Instantiation Principle, and this can be done without embracing either The Weakened Principle of Instantiation or The Principle of Instantiation." This is relevant here as well. ) This entails that the play is not merely fictional. (Some plays, as types, on this line of thinking, of course, are merely actual.) This is an interesting suggestion or alternative, and it is useful to have a discussion of what could make us decide between this alternative and the earlier suggestion that the labels 'fictional' or 'real' do not apply at the level of types.
+Lee Walters seems to be sympathetic to this reading. He writes that "types, even created types, can exist when they have no tokens", and goes on to suggest that all that is needed is that there is an 'embodiment' of the type. 
+
+> It is the existence of the embodiment of a type that enables the production of (further) tokens of the type. What’s important for the existence of a type is, then, the possibility of generating tokens of that type---that is, that some embodiment of the type exists.[@walters2013aa, p. 463]
+
+An embodiment is not itself a token, 
+
+> the existence of a type is tied to the possibility of generating tokens of that type, by reference to an individual,‘which serves as a rule or standard for the production of others’. These individuals include both pre-existing tokens, like a sentence or a musical performance, and recipes for producing tokens of that type; recursion clauses for languages and musical scores are examples of recipes for producing tokens of a type, but are not themselves tokens of that type. In addition, types can be stored, for example, in memory, on a computer, or on film. Further tokens can be generated, then, either by copying existing tokens, or else by producing tokens according to a recipe, or from storage. [@walters2013aa, p. 462]
+
+So the main message here is twofold. The first part is that __if it is possible to generate tokens of a type, then the type exists__. This we see captures what we wanted to express with (4'). As Walters writes, 
+
+>  This picture is exactly what is required to capture the intuitive persistence conditions of repeatable artworks, such as musical works: they can come into existence through the writing of a score, and the preservation of a score is thereby the preservation of the work, regardless of whether the work is ever performed.[@walters2013aa, p. 476]
+
+The second part is about what is presupposed in the antecedent. It is only possible to generate tokens of a type if an embodiment of the type exists. This is a necessary condition. And so, given that we clearly can perform _The Trials of Arabella_, an embodiment of that play must exist. And we don't have to search long to find it: it is contained ('stored', in a way) in McEwan's novel. 
+
+
+
+
+
+An alternative way to go: the play is merely fictional as long as no tokens of it exist in the actual world. As soon as a token of the play exists in the actual world, the play itself exists (as a type) in the actual world. (Walters brings out how "what is required to avoid problems with the persistence of properties and repeatable artworks is to reject __The Strengthened Instantiation Principle__, and this can be done without embracing either The Weakened Principle of Instantiation or The Principle of Instantiation." This is relevant here as well. ) This entails that the play is not merely fictional. (Some plays, as types, on this line of thinking, of course, are merely actual.) This is an interesting suggestion or alternative, and it is useful to have a discussion of what could make us decide between this alternative and the earlier suggestion that the labels 'fictional' or 'real' do not apply at the level of types.
 
 I've pointed to a phenomenon that seems very well possible. I've constructed an example based on a fictional work in one of McEwan's novels. We've seen that the phenomenon (and so the example) is puzzling in light of the distinction between fictional and real entities. I now want to suggest a way to resolve the puzzlement. It's an explanation of how it is possible for fictional entities of the sort I discussed to make their entrance into the real world. 
 
