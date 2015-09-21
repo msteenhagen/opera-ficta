@@ -73,12 +73,12 @@ Yet if we replace one of its premises with a stronger version, we can use the ar
 This may seem surprising. We've seen that as soon as we actually perform the play, the play actually exists. But could it be that it existed even before that, just in virtue of the completion of _Atonement_, the novel that contains the play's origination? Although it may seem far-fetched at first, I think there's some reason to take also this seriously. To see this, it's helpful to look more closely at the premises of the argument I started with: 
 
 \begin{enumerate}
-[1.] \emph{The Trials} is a fictional particular
-[2.] \emph{The Trials}, a fictional particular, is a play 
-[3.] Plays are repeatable particulars
-[4.] If one can actually perform a repeatable particular, then that particular can actually exist
-[5.] We can actually perform \emph{The Trials}, a fictional particular
-[6.] \emph{The Trials}, a fictional particular, can actually exist 
+\item[1.] \emph{The Trials} is a fictional particular
+\item[2.] \emph{The Trials}, a fictional particular, is a play 
+\item[3.] Plays are repeatable particulars
+\item[4.] If one can actually perform a repeatable particular, then that particular can actually exist
+\item[5.] We can actually perform \emph{The Trials}, a fictional particular
+\item[6.] \emph{The Trials}, a fictional particular, can actually exist 
 \end{enumerate}
 
 Recall, the Encapsulation Thesis implies that, say, Sherlock Holmes, because that character is a merely fictional detective, cannot actually exist, at least not as a detective. And so earlier I used (6) to undermine the Encapsulation Thesis:
@@ -116,8 +116,8 @@ Walters suggests that the idea behind (4') captures well the persistence conditi
 
 # Conclusion
 
-In this paper I have wanted to draw attention to a specific puzzle about fictional works that is not frequently acknowledged or discussed. I have shown it has ramifications for our conception of a specific range of fictional entities, namely repeatable particulars that find their origin in a merely fictional narrative. It also implies that native fictional entities can transfer to the real world.
+In this paper I have wanted to draw attention to a specific puzzle about fictional works that is not frequently acknowledged or discussed. I have shown it has ramifications for our conception of a specific range of fictional entities, namely repeatable particulars that find their origin fictional works or narratives. I've pointed to their allographic nature as an explanation of the fact that such fictionally created works can exist as real world immigrants in the world we live in.
 
-I've mainly discussed a particular fictional play. Although it is difficult to draw a sharp line, it is clear that their are many more kinds of things we find in fictional works that are potential real world immigrants. Some of these will be marginal, others may be prominent in our actual lives. Perhaps we can think of some of the artefacts first invented in science fiction novels, and that only decades or centuries later were realised in the actual world. When we say that a device or piece of technology is as if it walked straight out of a science fiction story, we may be more accurate than were typically willing to acknowledge. 
+I've mainly discussed a particular fictional play, the one written by Briony in _Atonement_. Although it is difficult to draw a sharp line, it is clear that their are many more kinds of things we find in fictional works that are potential real world immigrants. Some of these will be marginal, others may be prominent in our actual lives. Perhaps we can think of some of the artefacts first invented in science fiction novels, and that only decades or centuries later were realised in the actual world. When we say that a device or piece of technology is as if it walked straight out of a science fiction story, we may be more accurate than were typically willing to acknowledge. 
 
 \subsection*{References}
