@@ -5,7 +5,7 @@ author:
 - name: Maarten Steenhagen
   affiliation: university of antwerp
   email: "maarten.steenhagen@uantwerpen.be"
-date: September 2015
+date: October 2015
 ...
 
 What happens in a fiction, stays in a fiction. Right? Wrong. Some works of fiction tell us about pieces of prose or literature written by fictional characters. All such works are _fictional works_, as I'll call them; they are all works written, created or invented within a fiction. Their authors are fictional characters: makers, creators, artists that do not exist (or at least the relevant acts of creation are fictional, but I'll ignore that). Because of this, it seems, the works themselves are merely fictional, things that happen or exist merely according to a story. And yet we can perform, execute, or generate instances of such works. And so we could bring those works actually into existence in the, as works of art. In such a case, something that happened in a fiction, doesn't stay there.
