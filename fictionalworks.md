@@ -33,6 +33,12 @@ The possibility of fictional works, such as Briony's _The Trials of Arabella_, p
 _The Trials_ is a work of theatre, written by Briony in a wholly fictional story. It seems uncontroversial that works written or composed in a fiction can also be performed in that fiction. We are very familiar with stories that tell us of the execution of merely fictional works, and there does not seem anything strange about this [see also @hayaki2009aa, who focuses on the performance of fictions within fictions]. It seems just as clear that Briony's play can be presented to an audience outside McEwan's story as well. And here I do not mean to an audience in another fiction, as when a fictional entity that originates in one corpus makes a _cameo_ in another fictional work, as it were. No, I mean that the play could just as well be performed by actual people, to an actual audience, on an actual stage. 
 
 On the face of it, the play Bethany wrote is not a real play, just as Sherlock Holmes is not a real detective or Dracula not a real vampire. Yet if we saw people on a stage trying to perform _The Trials_, giving voice to its lines and expression and life to its characters, wouldn't we be willing to say they were performing a play? Wouldn't we be willing to say that it was _The Trials_ they were performing? And wouldn't we be happy to attribute that play to Briony? Surely we would. This suggests Briony's play is a fictional individual that can transfer into the actual world; a fictional thing that could be performed right before our eyes.
+
+# Authorship
+
+A critic could object that Briony did not write _The Trials_. McEwan did. Of course, they will say, it is true that in the fiction Briony wrote the play, but why would that make it really true? I want to respond to this objection, as it reveals a point about authorship that is frequently overlooked.
+
+<!-- Response to objection. Look up in notes. -->
  
 So where does that leave us? I've suggested we can actually perform a fictional work such as _The Trials of Arabella_. If one can actually perform a fictional work, then a fictional individual can exist actually. But the Encapsulation thesis entails that no fictional individual can exist actually; such fictions are supposed to be encapsulated. We shouldn't get too worried, as it seems still fine to trick children to believe the Encapsulation Thesis if it makes them sleep better. But as a philosophical thesis about fiction that thesis is untenable.
 
