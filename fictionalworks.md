@@ -120,6 +120,20 @@ An embodiment, as Walters understands it, is not itself a token, but some indivi
 
 Walters suggests that the idea behind (4') captures well the persistence conditions of repeatable artworks as we commonly conceive of them. Whether a piece of music exists or not depends on the availability of its score, regardless of whether the work in question is ever performed. And accessibility of such a score, or of a theatrical script or of some verse lines clearly doesn't turn on their actual existence. We may just as well access a poem or a play through reading about it in a novel or by engaging with some other form of fiction. If that is right, then given that we have McEwan's narrative to fall back on, _The Trials of Arabella_ already actually exists. 
 
+# Kripke and Gonzago's murder
+
+Saul Kripke, in his Oxford John Locke Lectures from 1973, maintains that the characters in a fictional work such as Briony's _The Trials of Arabella_ at best exist as fictional fictional characters. His example is a fictional play that figures in Shakespeare's _Hamlet_:
+
+> Only in the play Hamlet, or let’s suppose so, is it said that there is such a play as _The Murder of Gonzago_. If so, we can say that there is no such fictional character as Gonzago. Here we are not reporting on what is in the play, because the play does say that there is such a fictional character as Gonzago. We are speaking now about the real world. There is in fact no such fictional character as Gonzago, though the play pretends that there is. There is, however, a fictional fictional character called ‘Gonzago.’ This is true in virtue of the existence of the play Hamlet. 
+
+Kripe thinks that the mere fact that Hamlet contains a fictional play that tells us about Gonzago does not entail that Gonzago _actually_ is a fictional character. Stronger, even, he seems to think it rules it out. There could be no such fictional character, he thinks (I think). At best there exists a fictional fictional character that is Gonzago. 
+
+In drawing this conclusion Kripke assumes that because _The Murder of Gonzago_ is a fictional play, it cannot exist in the actual world. He writes that "though many plays with the title _The Murder of Gonzago_ might have been written, one cannot say which of them would have been _this_ play _The Murder of Gonzago_, which of them would have had this fictional character Gonzago in it". And if we cannot say which of the plays that actually exist is the play _Hamlet_ speaks of, we simply have no way of referring to the fictional character that is _Gonzago_, the fictional character in _The Murder of Gonzago_ as it is spoken of in _Hamlet_. 
+
+But I have already explained that we can say which performances of plays are performances of _The Murder of Gonzago_, as it is spoken of in _Hamlet_; it is those performances that follow the rules or score or stage directions that embody the play. And those, we may presume, are accessible to any keen enough reader of _Hamlet_.
+
+This means that _The Murder of Gonzago_, as it is spoken of in _Hamlet_, could exist in fact. It could exist as a play. Indeed, if we are willing to rely on the stronger premise discussed in the previous section, it already does exist. Let us assume then that the repeatable individual or type that is _The Murder of Gonzago_ exists in fact as a work of fiction. Even by Kripke's only lights, characters of actually existing works of fiction do themselves actually exist as fictional characters. This means that Gonzago exists as a fictional character. The same holds for the protagonists of _The Trials_. 
+
 # Conclusion
 
 In this paper I have wanted to draw attention to a specific puzzle about fictional works that is not frequently acknowledged or discussed. I have shown it has ramifications for our conception of a specific range of fictional entities, namely repeatable individuals that find their origin fictional works or narratives. I've pointed to their allographic nature as an explanation of the fact that such fictionally created works can exist as real world immigrants in the world we live in.
