@@ -36,9 +36,7 @@ On the face of it, the play Bethany wrote is not a real play, just as Sherlock H
 
 # Authorship
 
-A critic could object that Briony did not write _The Trials_. McEwan did. Of course, they will say, it is true that in the fiction Briony wrote the play, but why would that make it really true? I want to respond to this objection, as it reveals a point about authorship that is frequently overlooked.
-
-<!-- Response to objection. Look up in notes. -->
+A critic could object that Briony did not write _The Trials_. McEwan did. Of course, they will say, it is true that in the fiction Briony wrote the play, but why would that make it really true? This is confused. What McEwan did was write a story in which the play was written. If we read a story about a fictional character born of wealthy parents, there is no reason for us to think that someone in the real world there now must be some parents that _actually_ gave birth to the character. Similarly, if we read that Briony wrote _The Trials_ there is no reason to think that, for that to be true in the fiction, _The Trials_ must in fact be written by someone else. All that follows is that someone in fact needs to have written a story in which _The Trials_ are written by Briony. And that's just what McEwan did. 
  
 So where does that leave us? I've suggested we can actually perform a fictional work such as _The Trials of Arabella_. If one can actually perform a fictional work, then a fictional individual can exist actually. But the Encapsulation thesis entails that no fictional individual can exist actually; such fictions are supposed to be encapsulated. We shouldn't get too worried, as it seems still fine to trick children to believe the Encapsulation Thesis if it makes them sleep better. But as a philosophical thesis about fiction that thesis is untenable.
 
