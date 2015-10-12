@@ -70,13 +70,13 @@ If this is right, then some of the individuals we find in the world around us co
 
 The range of possible real-world immigrants is restricted. At least on the basis of what I've said so far, we have only reason to assume possible candidates belong to a specific sort of repeatable individuals. The argument doesn't get us to Dracula, for instance. Accordingly, though my conclusions have philosophical relevance, they are unlikely to keep children awake at night.
 
-# A stronger premise
+# Embodiment and type existence
 
 As I formulated the Encapsulation Thesis, it maintained that fictional individuals do not and cannot exist in the real world. This is untenable as a general thesis, because, as I have shown, some fictional individuals _can_ exist in the real world. My argument so far thus only builds on the possibility of such real world immigrants. And that suffices for the dispute about the Encapsulation Thesis, which denies their possibility.
 
 Yet if we replace one of its premises with a stronger version, we can use the argument to establish not only that _The Trials_ could actually exist, but that the play _does_ actually exist, regardless of whether anyone actually performed it or not. In other words, that merely figuring in the novel as it does suffices for its actual existence as a work of theatre.
 
-This may seem surprising. We've seen that as soon as we actually perform the play, the play actually exists. But could it be that it existed even before that, just in virtue of the completion of _Atonement_, the novel that contains the play's origination? Although it may seem far-fetched at first, I think there's some reason to take also this seriously. To see this, it's helpful to look more closely at the premises of the argument I started with: 
+This may seem surprising. We've seen that as soon as we actually perform the play, the play actually exists. But could it be that it existed even before that, just in virtue of the completion of _Atonement_, the novel that contains the play's origination? Although it may seem far-fetched at first, I think there's some reason to take also this seriously. To see this, it's helpful to look more closely at the premises of my argument:
 
 \begin{enumerate}
 \item[1.] \emph{The Trials} is a fictional individual
@@ -106,19 +106,17 @@ The reasoning here is straightforward. But if we could replace the fourth premis
 \item [6'.] Therefore, \emph{The Trials} \textbf{does} actually exist 
 \end{enumerate}
 
-So potentially the argument leads to an even bolder conclusion. It requires us to make the stronger assumption (4'), and this may seem incredible at first. Could the sheer possibility for performance bring repeatable works into existence? Wouldn't this result in a proliferation of works that a conception of repeatable works as historical individuals is meant to avoid? I think there is something to be said for it, as long as we understand 'can' in the right way. 
+So potentially the argument leads to an even bolder conclusion. It requires us to make the stronger assumption (4'), and this may seem incredible at first. Could the sheer possibility for performance really bring repeatable works into existence? I think there is something to be said for this assumption. It turns on the interpretation of 'can perform'.
 
-If by 'can perfom' we mean that the materials are available to us, i.e. we have access to an original plate or mould or a notation, or can reasonably believe we have reconstructed (part of) that notation, then the assumption is acceptable, I think. And with that sense of 'can' in mind, Briony's play indeed can be performed. For we do seem to have access to at least part of the play's stage directions and script (and, we may assume, to enough of it). 
+If by 'can perform' we mean that the materials are available to us, that we have access to an exemplar or script or score, or can reasonably believe we have reconstructed (part of) that script or score, then the assumption is acceptable. By such lights, Briony's play can be performed. For those in possession of a copy of _Atonement_ do have access to at least part of the play's stage directions and script (and, we may assume, to enough of it).
 
-Some authors seem to be sympathetic to this way of strengthening the 4th premise of the argument. Lee Walters, for example, writes that "types, even created types, can exist when they have no tokens", and goes on to suggest that all that is needed is that there is an 'embodiment' of the type:
+Some authors seem to be sympathetic to this way of strengthening the argument. Lee Walters, for example, writes that "types, even created types, can exist when they have no tokens," and goes on to suggest that all that is needed is that there is an 'embodiment' of the type:
 
 > It is the existence of the embodiment of a type that enables the production of (further) tokens of the type. What’s important for the existence of a type is, then, the possibility of generating tokens of that type---that is, that some embodiment of the type exists.[@walters2013aa, p. 463]
 
-An embodiment, as Walters understands it, is not itself a token, but some individual that counts as standard or rule for the generation of instances or 'tokens' of a repeatable work. 
+An embodiment, as Walters understands it, is not itself a token, but some individual that counts as standard or rule for the generation of instances or 'tokens' of a repeatable work. As examples he mentions both pre-existing exemplars, and recipes for producing tokens of the type, such as musical scores. Embodiments can be stored in various ways: in museum storage, on film, or in human or computer memory [@walters2013aa, p. 462].
 
-> These individuals include both pre-existing tokens, like a sentence or a musical performance, and recipes for producing tokens of that type; recursion clauses for languages and musical scores are examples of recipes for producing tokens of a type, but are not themselves tokens of that type. In addition, types can be stored, for example, in memory, on a computer, or on film. Further tokens can be generated, then, either by copying existing tokens, or else by producing tokens according to a recipe, or from storage. [@walters2013aa, p. 462]
-
-Walters suggests that the idea behind (4') captures well the persistence conditions of repeatable artworks as we commonly conceive of them. Whether a piece of music exists or not depends on the availability of its score, regardless of whether the work in question is ever performed. And accessibility of such a score, or of a theatrical script or of some verse lines clearly doesn't turn on their actual existence. We may just as well access a poem or a play through reading about it in a novel or by engaging with some other form of fiction. If that is right, then given that we have McEwan's narrative to fall back on, _The Trials of Arabella_ already actually exists. 
+Together with Walters I think that the idea behind (4') captures well the persistence conditions of repeatable artworks as we commonly conceive of them. Whether a piece of music exists or not depends on the availability of its score, regardless of whether the work in question is ever performed. And accessibility of such a score, or of a theatrical script or of some verse lines clearly doesn't turn on its actual existence. We may just as well access a poem or a play through reading about it in a novel, or by engaging with some other form of fiction. If that is right, then given that we have McEwan's narrative to fall back on, _The Trials_ already exists in the real world.
 
 # Kripke and Gonzago's murder
 
