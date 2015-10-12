@@ -36,11 +36,13 @@ I claimed that the possibility of fictional works presents us with potential cou
 
 On the face of it, _The Trials_ seemed a merely fictional play, just as Dracula is not a real vampire. Yet if we saw people on a stage trying to perform _The Trials_, giving voice to its lines and expression to its characters, wouldn't we be willing to say they were performing a play? Wouldn't we be willing to say that it was _The Trials_ they were performing? And wouldn't we be happy to attribute that play to Briony? Surely we would. Her play is a fictional individual that can transfer into the actual world; a fictional thing that could be performed right before our eyes.
 
-# Authorship
+# Authorship in fiction
 
-A critic could object that Briony did not write _The Trials_. McEwan did. Of course, they will say, it is true that in the fiction Briony wrote the play, but why would that make it really true? This is confused. What McEwan did was write a story in which the play was written. If we read a story about a fictional character born of wealthy parents, there is no reason for us to think that someone in the real world there now must be some parents that _actually_ gave birth to the character. Similarly, if we read that Briony wrote _The Trials_ there is no reason to think that, for that to be true in the fiction, _The Trials_ must in fact be written by someone else. All that follows is that someone in fact needs to have written a story in which _The Trials_ are written by Briony. And that's just what McEwan did. 
- 
-So where does that leave us? I've suggested we can actually perform a fictional work such as _The Trials of Arabella_. If one can actually perform a fictional work, then a fictional individual can exist actually. But the Encapsulation thesis entails that no fictional individual can exist actually; such fictions are supposed to be encapsulated. We shouldn't get too worried, as it seems still fine to trick children to believe the Encapsulation Thesis if it makes them sleep better. But as a philosophical thesis about fiction that thesis is untenable.
+At this point a critic could object that Briony didn't write _The Trials_. McEwan did. Of course, they will say, it is true that in the fiction Briony wrote the play, but in reality it was McEwan.
+
+This objection rests on a confusion. McEwan didn't write a play. He wrote a story in which a play was written. Those are distinct acts. Compare, if in a story someone gives birth to twins, this of course does not entail that someone in reality gave birth to twins. It only follows that in reality someone conceived a story in which someone did. No doubt, just as any other work of theatre, _The Trails_ must have some author or other. But there is no reason to attribute the play to McEwan. From what we read in the story, it's clear that Briony may be identified as its author. The fact that it is only true in the fiction that she wrote the play doesn't sever the authorial tie between her and that play.
+
+So where does that leave us? I've suggested we can actually perform a fictional work such as _The Trials_. If one can actually perform a fictional work, then a fictional individual can exist actually. But the Encapsulation Thesis entails that no fictional individual can exist actually; such ficta are supposed to be encapsulated. We shouldn't get too worried, as it seems still fine to trick children to believe the Encapsulation Thesis if it makes them sleep better. But as a philosophical thesis about fiction that thesis is untenable.
 
 # Against an argument against Transfer
 
