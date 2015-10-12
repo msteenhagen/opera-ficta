@@ -136,8 +136,8 @@ This means that _The Murder of Gonzago_, as it is spoken of in _Hamlet_, could e
 
 # Conclusion
 
-In this paper I have wanted to draw attention to a specific puzzle about fictional works that is not frequently acknowledged or discussed. I have shown it has ramifications for our conception of a specific range of fictional entities, namely repeatable individuals that find their origin fictional works or narratives. I've pointed to their allographic nature as an explanation of the fact that such fictionally created works can exist as real world immigrants in the world we live in.
+I have wanted to draw attention to a specific puzzle about fictional works. The possibility of fictional works has ramifications for our conception of fictional entities. Instead of being encapsulated in the world of fiction, such works can exist as real world immigrants in the actual world.
 
-I've mainly discussed one fictional play, the one written by Briony in _Atonement_. Although it is difficult to draw a sharp line, it is clear that their are many more kinds of things we find in fictional works that are potential real world immigrants. Some of these will be marginal, others may be prominent in our actual lives. Perhaps we can think of some of the artefacts first invented in science fiction novels, and that only decades or centuries later were realised in the actual world. When we say that a device or piece of technology is as if it walked straight out of a science fiction story, we may be more accurate than were typically willing to acknowledge. 
+Although it is difficult to draw a sharp line, it's clear that there are more potential real world immigrants. Some of these will be marginal. Others may come to figure prominently in our lives. Think of artefacts first invented in works of science fiction, and only decades later built in real life. When people say of something that it is as if it came straight out of a story, they could in fact be right.
 
 \subsection*{References}
