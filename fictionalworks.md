@@ -140,4 +140,6 @@ I have wanted to draw attention to a specific puzzle about fictional works. The 
 
 Although it is difficult to draw a sharp line, it's clear that there are more potential real world immigrants. Some of these will be marginal. Others may come to figure prominently in our lives. Think of artefacts first invented in works of science fiction, and only decades later built in real life. When people say of something that it is as if it came straight out of a story, they could in fact be right.
 
+<!-- Thanks to Lee Walters for helpful comments on an earlier version. -->
+
 \subsection*{References}
