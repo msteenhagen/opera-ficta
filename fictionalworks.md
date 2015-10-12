@@ -24,7 +24,7 @@ Briony does not actually exist, at least not as the person she is. Nor could she
 
 Or could there?
 
-Many assume that individuals that find their origin in a fiction are 'encapsulated' in that fiction, or at least in the world of fiction. When we tell children that _Dracula_ is only a story, we build our words of comfort on this assumption. It's not just that Count Dracula doesn't actually exist, it is commonly assumed that they _could__not_ actually exist. The credo is that what happens in the fiction, stays in the fiction. This 'Encapsulation Thesis' underpins many of our beliefs and theories about fiction, and I think it's a philosophically interesting thesis.
+Many assume that individuals that find their origin in a fiction are 'encapsulated' in that fiction, or at least in the world of fiction. When we tell children that _Dracula_ is only a story, we build our words of comfort on this assumption. It's not just that Count Dracula doesn't actually exist, it is commonly assumed that they _could not_ actually exist. The credo is that what happens in the fiction, stays in the fiction. This 'Encapsulation Thesis' underpins many of our beliefs and theories about fiction, and I think it's a philosophically interesting thesis.
 
 The possibility of fictional works presents us with potential counterexamples to the Encapsulation Thesis.
 
@@ -124,7 +124,7 @@ My conclusions contradict a point emphasised by Saul Kripke. 
 
 In his John Locke Lectures from 1973, Kripke maintains that the characters in a fictional work such as Briony's _The Trials_ at best exist as fictional fictional characters. His own example is the fictional play that figures in _Hamlet_:
 
-> Only in the play _Hamlet_, or let's suppose so, is it said that there is such a play as _The__Murder of Gonzago_. If so, we can say that there is no such fictional character as Gonzago. Here we are not reporting on what is in the play, because the play does say that there is such a fictional character as Gonzago. We are speaking now about the real world. There is in fact no such fictional character as Gonzago, though the play pretends that there is. There is, however, a _fictional_ fictional character called 'Gonzago.' This is true in virtue of the existence of the play _Hamlet_.[@kripke2013aa, 72] 
+> Only in the play _Hamlet_, or let's suppose so, is it said that there is such a play as _The Murder of Gonzago_. If so, we can say that there is no such fictional character as Gonzago. Here we are not reporting on what is in the play, because the play does say that there is such a fictional character as Gonzago. We are speaking now about the real world. There is in fact no such fictional character as Gonzago, though the play pretends that there is. There is, however, a _fictional_ fictional character called 'Gonzago.' This is true in virtue of the existence of the play _Hamlet_.[@kripke2013aa, 72] 
 
 Kripke thinks that the mere fact that _Hamlet_ contains a fictional play that tells us about Gonzago does not entail that Gonzago _actually_ is a fictional character. Stronger, even, he seems to think it rules it out. Just as there is no possible blood-guzzling creature that we call ‘Dracula’, Kripke thinks that there is no possible fictional character which we call ‘Gonzago’.
 
